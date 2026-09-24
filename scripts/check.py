@@ -33,7 +33,8 @@ for p in pages:
  for ref in c.refs:
   url=urlsplit(ref)
   if url.scheme or url.netloc or not url.path:continue
-  if not (D/unquote(url.path)).exists():errors.append(f'{p.name}: missing {ref}')
+  q=unquote(url.path)
+  if not ((D/q).exists() or (D/(q+'.html')).exists()):errors.append(f'{p.name}: missing {ref}')
 for needed in ['sitemap.xml','robots.txt','llms.txt','data.json']:
  if not (D/needed).is_file():errors.append('Missing '+needed)
 for f in ['app.js','experience.js']:subprocess.run(['node','--check',str(R/'src'/f)],check=True)
