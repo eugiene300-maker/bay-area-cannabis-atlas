@@ -1,0 +1,903 @@
+{
+  "brand-alien-labs.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [
+      "brand-connected.html"
+    ],
+    "related": [
+      "story-western-division-marijuana-ghost-guns.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "brand-connected.html"
+    ]
+  },
+  "brand-camino.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-spanish-language-shopping-confidence.html",
+      "story-fake-shops-instagram-menus-red-flags.html",
+      "brand-kiva.html"
+    ]
+  },
+  "brand-connected.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "brand-alien-labs.html"
+    ]
+  },
+  "brand-jeeter.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sustainability-packaging-waste.html",
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "brand-pax.html"
+    ]
+  },
+  "brand-kiva.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [
+      "brand-camino.html"
+    ],
+    "related": [
+      "story-spanish-language-shopping-confidence.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "brand-camino.html"
+    ]
+  },
+  "brand-pax.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-spanish-language-shopping-confidence.html",
+      "story-sustainability-packaging-waste.html",
+      "brand-connected.html"
+    ]
+  },
+  "brand-raw-garden.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-fake-shops-instagram-menus-red-flags.html",
+      "brand-connected.html"
+    ]
+  },
+  "brand-wyld.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-western-division-marijuana-ghost-guns.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "brand-camino.html"
+    ]
+  },
+  "guide-brand-family-tree.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [
+      "brand-camino.html",
+      "brand-connected.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-sustainability-packaging-waste.html",
+      "brand-kiva.html"
+    ]
+  },
+  "guide-brand-vs-product.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "story-spanish-language-shopping-confidence.html",
+      "brand-pax.html"
+    ]
+  },
+  "guide-device-compatibility.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sustainability-packaging-waste.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "brand-pax.html"
+    ]
+  },
+  "guide-edible-families.html": {
+    "topics": [
+      "licensed-shopping",
+      "city-culture"
+    ],
+    "contextual_links": [
+      "brand-camino.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "brand-kiva.html"
+    ]
+  },
+  "guide-local-roots.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-spanish-language-shopping-confidence.html",
+      "story-what-licensed-means-san-jose.html",
+      "guide-brand-vs-product.html"
+    ]
+  },
+  "guide-resin-rosin-and-formats.html": {
+    "topics": [
+      "licensed-shopping",
+      "community"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "story-spanish-language-shopping-confidence.html",
+      "guide-brand-vs-product.html"
+    ]
+  },
+  "index.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-western-division-marijuana-ghost-guns.html",
+      "san-jose-field-notes.html"
+    ]
+  },
+  "neighborhood-downtown.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "place-the-tech-interactive.html"
+    ]
+  },
+  "neighborhood-japantown.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "place-nichi-bei-bussan.html"
+    ]
+  },
+  "neighborhood-sofa.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-tourism-day-map-downtown-plazas.html",
+      "place-city-lights.html"
+    ]
+  },
+  "off-the-clock-2026-09-23.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "story-420-season-san-jose-after-park-festivals.html",
+      "place-anno-domini.html"
+    ]
+  },
+  "place-anno-domini.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-macla.html"
+    ]
+  },
+  "place-california-theatre.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-san-jose-stage.html"
+    ]
+  },
+  "place-city-lights.html": {
+    "topics": [
+      "licensed-shopping",
+      "city-culture"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-san-jose-stage.html"
+    ]
+  },
+  "place-haberdasher.html": {
+    "topics": [
+      "licensed-shopping",
+      "city-culture"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-why-so-few-cannabis-storefronts.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-anno-domini.html"
+    ]
+  },
+  "place-hammer-theatre.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-public-consumption-plaza-parks.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "place-jamsj.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "story-tourism-day-map-downtown-plazas.html",
+      "place-roys-station.html"
+    ]
+  },
+  "place-jtown-pizza.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "place-shuei-do.html"
+    ]
+  },
+  "place-kogura.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-western-division-marijuana-ghost-guns.html",
+      "place-shuei-do.html"
+    ]
+  },
+  "place-macla.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-anno-domini.html"
+    ]
+  },
+  "place-nichi-bei-bussan.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "place-jamsj.html"
+    ]
+  },
+  "place-nirvana-soul.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "place-anno-domini.html"
+    ]
+  },
+  "place-roys-station.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-jamsj.html"
+    ]
+  },
+  "place-san-jose-civic.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "place-san-jose-improv.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "place-san-jose-museum-of-art.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-parking-industrial-vs-downtown.html",
+      "place-san-jose-civic.html"
+    ]
+  },
+  "place-san-jose-stage.html": {
+    "topics": [
+      "licensed-shopping",
+      "city-culture"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-western-division-marijuana-ghost-guns.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "place-anno-domini.html"
+    ]
+  },
+  "place-san-pedro-square-market.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "story-tourism-day-map-downtown-plazas.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "place-shuei-do.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-tourism-day-map-downtown-plazas.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-tourism-day-map-downtown-plazas.html",
+      "place-jtown-pizza.html"
+    ]
+  },
+  "place-sofa-market.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "place-california-theatre.html"
+    ]
+  },
+  "place-the-tech-interactive.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-purple-lotus-downtown-nfl-community-event.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "san-jose-field-notes.html": {
+    "topics": [
+      "city-culture",
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-western-division-marijuana-ghost-guns.html",
+      "story-public-consumption-plaza-parks.html",
+      "index.html"
+    ]
+  },
+  "story-420-season-san-jose-after-park-festivals.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "neighborhood-downtown.html"
+    ]
+  },
+  "story-banks-jobs-gun-forms-federal-law.html": {
+    "topics": [
+      "law-and-work"
+    ],
+    "contextual_links": [
+      "story-federal-schedule-iii-shopper-expectations.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-workplace-drug-testing-south-bay.html",
+      "story-federal-schedule-iii-shopper-expectations.html"
+    ]
+  },
+  "story-cannabis-journalism-ethics-local-paper.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-faith-communities-cannabis-local-tone.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-faith-communities-cannabis-local-tone.html",
+      "story-spanish-language-shopping-confidence.html",
+      "brand-alien-labs.html"
+    ]
+  },
+  "story-concert-nights-downtown-purchase-before-show.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "story-420-season-san-jose-after-park-festivals.html",
+      "place-san-jose-civic.html"
+    ]
+  },
+  "story-east-sj-gambling-raid-illicit-vs-licensed.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "index.html"
+    ]
+  },
+  "story-faith-communities-cannabis-local-tone.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-cannabis-journalism-ethics-local-paper.html",
+      "story-spanish-language-shopping-confidence.html",
+      "guide-device-compatibility.html"
+    ]
+  },
+  "story-fake-shops-instagram-menus-red-flags.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-what-licensed-means-san-jose.html",
+      "index.html"
+    ]
+  },
+  "story-federal-schedule-iii-shopper-expectations.html": {
+    "topics": [
+      "law-and-work"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-banks-jobs-gun-forms-federal-law.html",
+      "story-sb34-compassion-donation-pathways.html"
+    ]
+  },
+  "story-food-trucks-cannabis-events-eat-dont-consume.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-420-season-san-jose-after-park-festivals.html",
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "neighborhood-japantown.html"
+    ]
+  },
+  "story-measure-u-cannabis-business-tax.html": {
+    "topics": [
+      "law-and-work"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-sb34-compassion-donation-pathways.html",
+      "story-federal-schedule-iii-shopper-expectations.html"
+    ]
+  },
+  "story-music-in-the-park-plaza-cannabis-norms.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-public-consumption-plaza-parks.html",
+      "story-tourism-day-map-downtown-plazas.html"
+    ],
+    "related": [
+      "story-420-season-san-jose-after-park-festivals.html",
+      "story-concert-nights-downtown-purchase-before-show.html",
+      "neighborhood-downtown.html"
+    ]
+  },
+  "story-mythbusting-cheaper-illicit-same-flower.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-east-sj-gambling-raid-illicit-vs-licensed.html",
+      "story-western-division-marijuana-ghost-guns.html",
+      "index.html"
+    ]
+  },
+  "story-ordinance-31273-plain-english.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-measure-u-cannabis-business-tax.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-why-so-few-cannabis-storefronts.html",
+      "story-what-licensed-means-san-jose.html",
+      "guide-edible-families.html"
+    ]
+  },
+  "story-parking-industrial-vs-downtown.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-vta-light-rail-carrying-sealed-product.html"
+    ],
+    "related": [
+      "story-vta-light-rail-carrying-sealed-product.html",
+      "story-tourism-day-map-downtown-plazas.html",
+      "neighborhood-sofa.html"
+    ]
+  },
+  "story-public-consumption-plaza-parks.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-music-in-the-park-plaza-cannabis-norms.html",
+      "place-hammer-theatre.html"
+    ]
+  },
+  "story-purple-lotus-downtown-nfl-community-event.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-food-trucks-cannabis-events-eat-dont-consume.html",
+      "story-420-season-san-jose-after-park-festivals.html",
+      "neighborhood-sofa.html"
+    ]
+  },
+  "story-sb34-compassion-donation-pathways.html": {
+    "topics": [
+      "law-and-work"
+    ],
+    "contextual_links": [
+      "story-measure-u-cannabis-business-tax.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-measure-u-cannabis-business-tax.html",
+      "story-federal-schedule-iii-shopper-expectations.html"
+    ]
+  },
+  "story-sjpd-registered-cannabis-list.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [],
+    "related": [
+      "story-what-licensed-means-san-jose.html",
+      "story-east-sj-gambling-raid-illicit-vs-licensed.html",
+      "index.html"
+    ]
+  },
+  "story-spanish-language-shopping-confidence.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-cannabis-journalism-ethics-local-paper.html",
+      "story-women-queer-bipoc-shoppers-respectful-rooms.html",
+      "brand-pax.html"
+    ]
+  },
+  "story-students-sjsu-discount-myths-id-rules.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "story-what-licensed-means-san-jose.html",
+      "story-why-so-few-cannabis-storefronts.html"
+    ],
+    "related": [
+      "story-veterans-cannabis-south-bay-guide.html",
+      "story-spanish-language-shopping-confidence.html",
+      "brand-pax.html"
+    ]
+  },
+  "story-sustainability-packaging-waste.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-cannabis-journalism-ethics-local-paper.html",
+      "story-spanish-language-shopping-confidence.html",
+      "guide-device-compatibility.html"
+    ]
+  },
+  "story-tourism-day-map-downtown-plazas.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-public-consumption-plaza-parks.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "story-vta-light-rail-carrying-sealed-product.html"
+    ],
+    "related": [
+      "story-public-consumption-plaza-parks.html",
+      "story-vta-light-rail-carrying-sealed-product.html",
+      "place-san-jose-museum-of-art.html"
+    ]
+  },
+  "story-unincorporated-scc-vs-san-jose.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-federal-schedule-iii-shopper-expectations.html",
+      "story-measure-u-cannabis-business-tax.html",
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-what-licensed-means-san-jose.html",
+      "index.html"
+    ]
+  },
+  "story-veterans-cannabis-south-bay-guide.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-sb34-compassion-donation-pathways.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-students-sjsu-discount-myths-id-rules.html",
+      "story-women-queer-bipoc-shoppers-respectful-rooms.html",
+      "guide-brand-family-tree.html"
+    ]
+  },
+  "story-vta-light-rail-carrying-sealed-product.html": {
+    "topics": [
+      "city-culture"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-tourism-day-map-downtown-plazas.html",
+      "story-public-consumption-plaza-parks.html",
+      "neighborhood-downtown.html"
+    ]
+  },
+  "story-western-division-marijuana-ghost-guns.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html",
+      "story-what-licensed-means-san-jose.html"
+    ],
+    "related": [
+      "story-east-sj-gambling-raid-illicit-vs-licensed.html",
+      "story-mythbusting-cheaper-illicit-same-flower.html",
+      "index.html"
+    ]
+  },
+  "story-what-licensed-means-san-jose.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-banks-jobs-gun-forms-federal-law.html",
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-ordinance-31273-plain-english.html",
+      "story-sjpd-registered-cannabis-list.html",
+      "brand-alien-labs.html"
+    ]
+  },
+  "story-why-so-few-cannabis-storefronts.html": {
+    "topics": [
+      "licensed-shopping"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-ordinance-31273-plain-english.html",
+      "story-what-licensed-means-san-jose.html",
+      "index.html"
+    ]
+  },
+  "story-women-queer-bipoc-shoppers-respectful-rooms.html": {
+    "topics": [
+      "community"
+    ],
+    "contextual_links": [
+      "story-parking-industrial-vs-downtown.html",
+      "story-veterans-cannabis-south-bay-guide.html"
+    ],
+    "related": [
+      "story-spanish-language-shopping-confidence.html",
+      "story-veterans-cannabis-south-bay-guide.html",
+      "brand-jeeter.html"
+    ]
+  },
+  "story-workplace-drug-testing-south-bay.html": {
+    "topics": [
+      "law-and-work"
+    ],
+    "contextual_links": [
+      "story-sjpd-registered-cannabis-list.html"
+    ],
+    "related": [
+      "story-banks-jobs-gun-forms-federal-law.html",
+      "story-federal-schedule-iii-shopper-expectations.html"
+    ]
+  }
+}
