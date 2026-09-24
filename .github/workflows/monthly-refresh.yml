@@ -28,7 +28,7 @@ jobs:
       - name: Regenerate pages
         env:
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python scripts/build.py
+        run: python scripts/build.py && python scripts/clean_urls.py
       - name: Validate pages and links
         run: python scripts/check.py
       - name: Save refreshed data and pages

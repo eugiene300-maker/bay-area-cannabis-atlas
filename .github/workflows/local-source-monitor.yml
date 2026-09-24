@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '22'
       - run: python3 scripts/refresh-local.py
-      - run: python3 scripts/build.py
+      - run: python3 scripts/build.py && python3 scripts/clean_urls.py
         env:
           SITE_URL: ${{ vars.SITE_URL }}
       - run: python3 scripts/check.py
