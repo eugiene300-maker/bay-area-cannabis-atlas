@@ -1,4 +1,5 @@
 {
   "kind": "atlas",
-  "site_url": "https://bay-area-cannabis-atlas.pages.dev"
+  "site_url": "https://bay-area-cannabis-atlas.pages.dev",
+  "clean_urls": true
 }
