@@ -1,0 +1,211 @@
+{
+  "topics": [
+    {
+      "id": "licensed-shopping",
+      "title": "Licensed shopping",
+      "description": "Licenses, storefronts, product origins and the questions to ask before a purchase.",
+      "articles": [
+        1,
+        2,
+        3,
+        4,
+        15,
+        61,
+        62,
+        64,
+        86
+      ],
+      "keywords": [
+        "licensed",
+        "license",
+        "retail",
+        "storefront",
+        "brand",
+        "source",
+        "counterfeit"
+      ]
+    },
+    {
+      "id": "law-and-work",
+      "title": "Law, money and work",
+      "description": "How city rules, taxes and federal policy show up in everyday life.",
+      "articles": [
+        9,
+        25,
+        26,
+        27,
+        80
+      ],
+      "keywords": [
+        "law",
+        "federal",
+        "tax",
+        "workplace",
+        "ordinance",
+        "policy",
+        "compassion"
+      ]
+    },
+    {
+      "id": "city-culture",
+      "title": "City life and culture",
+      "description": "Shows, parks, neighborhood stops and getting around San Jose.",
+      "articles": [
+        19,
+        50,
+        54,
+        55,
+        56,
+        73,
+        74,
+        75,
+        90
+      ],
+      "keywords": [
+        "music",
+        "park",
+        "downtown",
+        "concert",
+        "event",
+        "neighborhood",
+        "plaza",
+        "transit",
+        "parking",
+        "museum",
+        "art",
+        "food"
+      ]
+    },
+    {
+      "id": "community",
+      "title": "People and community",
+      "description": "Access, identity, language and the choices shaping local cannabis culture.",
+      "articles": [
+        29,
+        30,
+        60,
+        72,
+        82,
+        83,
+        84
+      ],
+      "keywords": [
+        "community",
+        "veteran",
+        "student",
+        "language",
+        "packaging",
+        "sustainability",
+        "culture"
+      ]
+    }
+  ],
+  "tool_topics": {
+    "index.html": [
+      "licensed-shopping"
+    ]
+  },
+  "aliases": {
+    "1": [
+      "SJPD",
+      "registered cannabis list"
+    ],
+    "2": [
+      "licensed retailers",
+      "state license"
+    ],
+    "3": [
+      "cannabis storefronts"
+    ],
+    "4": [
+      "Ordinance 31273"
+    ],
+    "9": [
+      "Measure U",
+      "business tax"
+    ],
+    "15": [
+      "unincorporated Santa Clara County"
+    ],
+    "19": [
+      "public consumption"
+    ],
+    "25": [
+      "Schedule III",
+      "rescheduling"
+    ],
+    "26": [
+      "federal law"
+    ],
+    "27": [
+      "SB 34",
+      "compassion donations"
+    ],
+    "29": [
+      "veterans"
+    ],
+    "30": [
+      "student discounts"
+    ],
+    "50": [
+      "food trucks"
+    ],
+    "54": [
+      "concert nights"
+    ],
+    "55": [
+      "Music in the Park"
+    ],
+    "56": [
+      "420 season"
+    ],
+    "60": [
+      "BIPOC",
+      "queer shoppers"
+    ],
+    "61": [
+      "gambling raid"
+    ],
+    "62": [
+      "ghost guns"
+    ],
+    "64": [
+      "Instagram menus",
+      "fake shops"
+    ],
+    "72": [
+      "packaging waste",
+      "sustainability"
+    ],
+    "73": [
+      "tourism",
+      "tourists"
+    ],
+    "74": [
+      "VTA",
+      "light rail"
+    ],
+    "75": [
+      "parking"
+    ],
+    "80": [
+      "workplace drug testing",
+      "drug testing"
+    ],
+    "82": [
+      "faith communities"
+    ],
+    "83": [
+      "Spanish-language"
+    ],
+    "84": [
+      "journalism ethics"
+    ],
+    "86": [
+      "illicit flower"
+    ],
+    "90": [
+      "NFL block party"
+    ]
+  }
+}

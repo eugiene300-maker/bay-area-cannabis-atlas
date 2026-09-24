@@ -1,0 +1,78 @@
+{
+  "last_success": "2026-09-23T17:10:16+00:00",
+  "compounds": {},
+  "checks": [
+    {
+      "source": "https://rawgarden.farm/our-story/",
+      "status": "ok",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Raw Garden official reference reachable"
+    },
+    {
+      "source": "https://www.kivaconfections.com/about-us",
+      "status": "error",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Kiva Confections official reference",
+      "message": "Source response too short"
+    },
+    {
+      "source": "https://www.kivaconfections.com/brand/camino",
+      "status": "error",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Camino official reference",
+      "message": "Source response too short"
+    },
+    {
+      "source": "https://wyldcanna.com/why-in-wyld/wyld-story/",
+      "status": "error",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "WYLD official reference",
+      "message": "Source response too short"
+    },
+    {
+      "source": "https://www.pax.com/",
+      "status": "ok",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "PAX official reference reachable"
+    },
+    {
+      "source": "https://www.jeeter.com/",
+      "status": "ok",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Jeeter official reference reachable"
+    },
+    {
+      "source": "https://connectedcannabisco.com/pages/new-about",
+      "status": "error",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Connected official reference",
+      "message": "Source response too short"
+    },
+    {
+      "source": "https://connectedcannabisco.com/pages/new-about",
+      "status": "error",
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "fields": "Alien Labs official reference",
+      "message": "Source response too short"
+    }
+  ],
+  "last_attempt": "2026-09-23T17:10:16+00:00",
+  "history": [
+    {
+      "checked_at": "2026-09-23T17:10:16+00:00",
+      "changed_fields": [],
+      "failed_sources": [
+        "https://www.kivaconfections.com/about-us",
+        "https://www.kivaconfections.com/brand/camino",
+        "https://wyldcanna.com/why-in-wyld/wyld-story/",
+        "https://connectedcannabisco.com/pages/new-about",
+        "https://connectedcannabisco.com/pages/new-about"
+      ]
+    },
+    {
+      "checked_at": "2026-09-23T07:12:20+00:00",
+      "changed_fields": [],
+      "failed_sources": []
+    }
+  ]
+}

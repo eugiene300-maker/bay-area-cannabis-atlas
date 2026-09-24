@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-09-23",
+    "range": "September 24–30, 2026",
+    "reviewed": "2026-09-23",
+    "title": "One dance listing. One closing date. One better afternoon.",
+    "intro": "Three useful findings for your San Jose downtime: start with a dated event, make room for an exhibition before its closing date, and give Japantown’s daytime stops a realistic sequence.",
+    "items": [
+      {
+        "id": "citydance",
+        "label": "ON THE CALENDAR / THURSDAY, SEPTEMBER 24",
+        "title": "CityDance: the date is the useful part.",
+        "text": "CityDance San José: Afrobeats is listed for Thursday, September 24, 6–9pm at Plaza Park, with free admission. The museum’s programme page also describes free museum entry during CityDance evenings. Check the original event page before heading out; its latest notice is the reference for changes.",
+        "source": "https://sjmusart.org/programs-at-sjma/after-hours/citydance"
+      },
+      {
+        "id": "gallery",
+        "label": "BEFORE THE EXHIBITION ENDS",
+        "title": "A closing date gives you a reason to choose a day.",
+        "text": "Anno Domini lists Brandan Styles’s Blissful Rituals for a Mad World through October 3, 2026. Its ordinary Thursday and Friday hours run until 7pm; Saturday closes at 5pm. The useful decision is which window fits your schedule. An opening reception from an earlier date is not a future event.",
+        "source": "https://www.galleryad.com/"
+      },
+      {
+        "id": "afternoon",
+        "label": "THE PLAN THAT NEEDS DAYLIGHT HOURS",
+        "title": "Roy’s first, then room for history.",
+        "text": "Roy’s closes at 2pm on weekdays and 3pm on weekends according to its current site. JAMsj lists Thursday–Sunday noon–4pm. If both matter to your outing, check those two windows before deciding on the order. Our Japantown guide keeps each stop’s constraints visible.",
+        "source": "https://roysstation.com/"
+      },
+      {
+        "id": "source-check",
+        "label": "WHY WE CHECK THE ORIGINAL NOTICE",
+        "title": "An old listing can outlive a venue.",
+        "text": "3Below’s own farewell notice announces closure after the final performances of The Bardy Bunch in April 2026. Older listings remain discoverable. We have left it out of the current place index and kept the original notice here so the reason is clear.",
+        "source": "https://3belowtheaters.com/goodbye-san-jose/"
+      }
+    ],
+    "ends": "2026-09-30"
+  }
+]

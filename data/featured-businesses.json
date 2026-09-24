@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-09-24",
+  "businesses": [
+    {
+      "name": "Purple Lotus",
+      "category": "Dispensary",
+      "sponsored": true,
+      "source": "https://plpcsanjose.com/",
+      "id": "purple-lotus"
+    },
+    {
+      "id": "san-pedro",
+      "name": "San Pedro Square Market",
+      "category": "Dining",
+      "description": "Food vendors and drinks at 87 North San Pedro Street.",
+      "image": "san-pedro-square.webp",
+      "alt": "San Pedro Square entrance on North San Pedro Street in San Jose",
+      "source": "https://sanpedrosquaremarket.com/",
+      "sponsored": false
+    },
+    {
+      "id": "museum",
+      "name": "San José Museum of Art",
+      "category": "Arts",
+      "description": "Exhibitions and public programs at 110 South Market Street.",
+      "image": "downtown.webp",
+      "alt": "Circle of Palms and the San Jose Museum of Art in downtown San Jose",
+      "source": "https://sjmusart.org/",
+      "sponsored": false
+    },
+    {
+      "id": "improv",
+      "name": "San Jose Improv",
+      "category": "Comedy",
+      "description": "Stand-up comedy in downtown San Jose’s historic Jose Theater.",
+      "image": "business-improv.webp",
+      "alt": "Neon Jose Theater and Improv signs in downtown San Jose at night",
+      "source": "https://www.sanjose.org/listings/san-jose-improv",
+      "sponsored": false
+    }
+  ]
+}

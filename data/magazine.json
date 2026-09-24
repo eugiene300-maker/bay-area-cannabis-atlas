@@ -1,0 +1,1313 @@
+{
+  "name": "LOUD LOCAL",
+  "dir": "bay-area-cannabis-atlas",
+  "strap": "San Jose culture. Loud opinions. A city worth showing up for.",
+  "section_title": "The city has a pulse.",
+  "team_title": "Meet the desk.",
+  "team_intro": "Art, music, and the argument for a better night out.",
+  "about_title": "San Jose is not a waiting room.",
+  "about": [
+    "This city has artists, ambitious little rooms, loud weekends, and far more personality than its office-park reputation allows. LOUD LOCAL follows that San Jose: the one that makes things, goes out, and argues about what comes next.",
+    "Our cannabis brand atlas was the starting point. The wider beat is culture: music, art, neighborhoods, and the choices that make a city feel like somewhere you belong. We write for curious adults who want more than a list of sponsored recommendations.",
+    "Expect a strong take, a useful detail, and a reason to send the story to a friend. We cover familiar names alongside smaller places worth your attention. Advertising appears in labeled placements."
+  ],
+  "authors": [
+    {
+      "name": "Nina Vale",
+      "beat": "Culture & community",
+      "bio": "Nina covers San Jose arts, neighborhood life and the people and businesses shaping the city."
+    },
+    {
+      "name": "Dante Cruz",
+      "beat": "Music & local events",
+      "bio": "Dante covers San Jose music, sports gatherings and the city’s events calendar."
+    },
+    {
+      "name": "Jules Park",
+      "beat": "City life & consumer policy",
+      "bio": "Jules covers local cannabis policy, public space and practical questions for San Jose shoppers."
+    }
+  ],
+  "tool": {
+    "eyebrow": "THE TOOL THAT STARTED IT",
+    "title": "Know the names. Read the labels.",
+    "text": "Explore the cannabis brand atlas, compare formats, and build your own shortlist.",
+    "url": "index.html#directory",
+    "label": "Open the brand atlas"
+  },
+  "articles": [
+    {
+      "id": "sjpd-registered-cannabis-list",
+      "title": "How to Read SJPD’s Registered Cannabis List Before You Shop",
+      "dek": "The city’s public registry, not a deal flyer, is the map of who may lawfully sell or deliver cannabis in San Jose.",
+      "body": [
+        "If you buy cannabis in San Jose, the most important web page is not a social-media menu. It is the San Jose Police Department’s registered cannabis businesses list, the city’s plain-language inventory of who may lawfully sell or deliver here.",
+        "SJPD’s Division of Cannabis Regulation states the rule without ambiguity: any cannabis business or delivery service not on the registered list is not registered with the city and is not operating lawfully under the San Jose Municipal Code. The department’s “Be Confident – Buy Legal” guidance explains why that matters for ordinary shoppers. Registered businesses are required to meet security, lighting, and nuisance standards. Products sold through the legal channel are subject to California testing and labeling rules. County weights-and-measures checks apply to scales. If something goes wrong, consumers have city and state complaint channels rather than an anonymous phone number.",
+        "A snapshot of the registered locations page labeled “as of 05/29/2026” listed roughly twenty named businesses with addresses, council districts, phone numbers, and a delivery column. That table is the working inventory most locals should start from when planning a first visit or verifying a delivery claim. Treat the “as of” date as part of the information: new registrations can appear after a snapshot, and a shop that closed or relocated may lag until the next refresh.",
+        "Reading the table well means noticing what it does not promise. The delivery column marks some shops with an explicit “No.” Other rows leave the cell blank or otherwise unmarked in the published table. Blank should not be treated as a guarantee of delivery; it is ambiguity. Call the shop or check its current ordering tools before assuming a van will come. SJPD’s FAQ guidance reinforces that only city-registered businesses that applied for and received Notice of Completed Registration may conduct deliveries.",
+        "Council district numbers on the same table help with neighborhood planning. District 3 clusters several Northside and downtown-adjacent shops. District 7 holds a dense South San Jose and industrial-corridor group. Other districts appear with fewer entries. District labels change only when the city updates the list; they are a consumer convenience, not a zoning substitute.",
+        "A useful habit when a shop is new or newly branded is to cross-check the state retail license number against the city registration list. California’s Department of Cannabis Control license search and SJPD’s city list answer different questions. State licensing does not replace city registration, and city registration does not erase state rules. Shoppers protect themselves by confirming both when something looks unfamiliar.",
+        "SJPD does not advocate cannabis use. Its message is conditional: if you choose to buy in San Jose, buy from registered businesses. Illegal sales can be reported to the state Department of Cannabis Control, city code enforcement, or police channels listed on the buy-legal guidance. For health questions, the department points readers to California Department of Public Health resources; for addiction help, to Santa Clara County Behavioral Health Services.",
+        "In a city where storefronts are scarce and delivery apps proliferate, the registered list is the difference between a tested jar with a track-and-trace history and an unknown bag. Bookmark it. Check the date. Match the name and address. Then shop, knowing the business that takes your ID is the one the city actually authorized.",
+        "A practical checklist helps. First, open the SJPD registered locations page and note the “as of” date. Second, search for the exact business name and street address you intend to visit or order from. Third, if the shop is newly opened or recently rebranded, confirm the state license number on the store’s own materials and ask staff whether city registration is complete. Fourth, for delivery, ignore flashy third-party ads until the operator appears on the city list and the shop confirms it holds delivery authorization. Fifth, keep receipts; regulated retailers can identify batches if a product problem arises.",
+        "None of this requires distrust of budtenders. It requires the same caution people already use when a restaurant health score is missing from the door. San Jose built a finite, inspectable retail system. The registered list is how that system talks to the public."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-01",
+      "published": "2026-08-01",
+      "updated": "2026-09-23",
+      "photo": "article-01",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/frequently-asked-questions"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ]
+      ],
+      "import_number": 1,
+      "source_file": "01-sjpd-registered-cannabis-list.md"
+    },
+    {
+      "id": "what-licensed-means-san-jose",
+      "title": "What “Licensed” Actually Means in San Jose (City + State)",
+      "dek": "A state cannabis license and a San Jose Notice of Completed Registration are related, but not interchangeable.",
+      "body": [
+        "Shoppers often use “licensed” as a single word for a safe shop. In San Jose, lawful retail usually requires two layers that answer different questions: a California state license from the Department of Cannabis Control, and city registration under Municipal Code Chapter 6.88 culminating in a Notice of Completed Registration.",
+        "The state layer confirms that a business holds the correct license type for what it does, retail storefront, non-storefront retail (delivery), distribution, manufacturing, testing, and so on. DCC’s consumer guidance says licensed retailers must follow rules that prevent sales to minors, require product testing, and keep THC and CBD labeling accurate. Retailers must display their state license so customers can see it, and shoppers can use DCC’s license search to verify status. Scanning a QR code on a posted certificate is one way to check that the paper on the wall matches a live record.",
+        "The city layer is local permission to operate those activities inside San Jose. SJPD’s Division of Cannabis Regulation administers the program. Chapter 6.88 materials and Ordinance 31273 updates make the registration obligation explicit: no cannabis business shall operate in the city until it has filed a registration application, paid required fees, and received a Notice of Completed Registration from the City Manager, and, since adult-use licensing began, until it also holds the appropriate state license for its activity. Paying taxes does not legalize an unregistered shop. Holding a state license does not replace city registration.",
+        "Why the dual system exists is partly historical. San Jose’s medical collective registration program predated statewide adult-use retail, and the Division of Cannabis Regulation grew out of that local oversight model. When Proposition 64 adult-use sales began, the city authorized its registered collectives to expand into non-medical activity consistent with state law, still inside a city registration frame. The public-facing tool for shoppers remains the registered businesses list, not a social-media claim that “we’re licensed somewhere.”",
+        "Practical differences show up at the door. A business might market statewide branding while its San Jose location is the entity that must appear on SJPD’s list. A delivery van might look official while lacking city delivery authorization. Ordinance 31273 aligned allowed delivery locations with allowed retail storefront locations per business, but SJPD’s FAQ still requires Notice of Completed Registration before deliveries are lawful. Consumers should not treat an app rating as a substitute for either credential.",
+        "Zoning and land-use rules add a third practical filter. Even a fully licensed and registered operator can only open where local land-use rules allow cannabis retail. That is one reason storefronts cluster in certain corridors rather than appearing on every commercial block. Scarcity of new retail applications, SJPD’s business application process page continues to state that the city is not accepting applications for new retail storefront, retail non-storefront, or cultivation locations through ordinary intake, keeps the licensed map relatively stable.",
+        "Manufacturing, distribution, and testing applications remain open through the city’s multi-phase process even while retail intake stays closed. That split confuses readers who hear “cannabis is legal” and assume every commercial license type is equally available. For consumers, the relevant takeaway is narrower: the storefront or delivery service you use must clear both state and city gates for retail activity, regardless of how many manufacturing licenses exist elsewhere in the supply chain.",
+        "For shoppers, a short verification routine is enough. Confirm the shop on SJPD’s registered list. Confirm a current state retail license through DCC search if the name, address, or branding looks new. Ask about delivery authorization before ordering to the door. Keep the receipt. Those steps convert “licensed” from a marketing adjective into a checkable claim.",
+        "Federal law still sits above both layers. Adult-use cannabis remains illegal under federal statutes even when California and San Jose authorize a sale. Local licensing does not create federal immunity, change airport rules, or erase employer drug-testing policies. What city and state licensing do provide is the inspectable marketplace: tested products, ID checks, tax collection, and a complaint path when something fails.",
+        "In short, “licensed in San Jose” should mean state license plus city registration for the activity you are using, counter sale or delivery, at the address or operator you deal with. Anything less is a reason to pause, not a reason to bargain harder with an unregistered seller. The dual credential is not bureaucracy for its own sake; it is how a large city keeps a finite set of retailers accountable while state agencies police product testing and interstate diversion risks."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-03",
+      "published": "2026-08-03",
+      "updated": "2026-09-23",
+      "photo": "article-02",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/cannabis-regulatory-program"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/ordinances/code_of_ordinances?nodeId=1399880"
+        ]
+      ],
+      "import_number": 2,
+      "source_file": "02-what-licensed-means-san-jose.md"
+    },
+    {
+      "id": "why-so-few-cannabis-storefronts",
+      "title": "Why San Jose Has So Few Cannabis Storefronts",
+      "dek": "Closed retail applications, a narrow equity on-ramp, and a roster near twenty registered businesses explain the empty corners.",
+      "body": [
+        "Ask a San Jose cannabis shopper why the nearest corner still has no dispensary, and the honest answer is policy design, not a temporary staffing shortage. New storefronts stay scarce because the city closed the ordinary application window for retail, limited equity additions, and left a competitive field of roughly twenty registered businesses to serve nearly a million residents.",
+        "SJPD’s Business Application Process page states the city is not accepting applications for new retail storefront, retail non-storefront (delivery-only), or cultivation locations. Manufacturing, distribution, and testing applications remain open through a multi-phase process. That split matters: the industrial and testing layers of the supply chain can still grow under city registration, while the customer-facing storefront layer cannot expand through a standard intake form.",
+        "Equity rules create a narrow exception, not a floodgate. SJPD’s Cannabis Equity Program materials explain that the city allows up to ten retail registrations for qualified equity owners who meet eligibility criteria and complete the Equity Business Academy. Completing the academy and winning a lottery selection is only the beginning. Local reporting on recent equity openings has described multi-year licensing timelines between selection and open doors, patience measured in years, not promotional weekends.",
+        "Spartan Daily and other local outlets have repeatedly described San Jose’s registered cannabis business count as hovering near twenty. In a city of that size, twenty storefronts, some clustered in Districts 3 and 7, fewer elsewhere, means many neighborhoods remain a drive away from a legal counter. Scarcity raises the stakes of every opening and every closure. It also intensifies competition on hours, service, and deals when many retailers stock overlapping brand catalogs.",
+        "Statewide industry pressure does not reopen San Jose’s retail application portal. It does help explain why existing shops invest in promotions and early hours: differentiation is harder when SKUs overlap and locations are few. For consumers, scarcity shows up as practical friction. You may pass several empty retail bays before you reach a registered shop that meets zoning, security, and ownership rules. Delivery can partly fill gaps, but only from operators that hold city delivery authorization, and several listed storefronts still mark Delivery “No.” Unlicensed delivery apps are not a lawful workaround; SJPD’s buy-legal guidance treats unregistered sellers as unlawful regardless of convenience.",
+        "Scarcity also shapes culture. Brand days, holiday sales, and ribbon-cutting weekends become major calendar items because the market cannot absorb endless new competitors. Shoppers learn a handful of addresses deeply rather than browsing a constantly expanding directory. Budtenders become guides inside familiar menus instead of tour guides through brand-new stores each month.",
+        "None of this is an argument that San Jose should suddenly reopen retail applications; that is a City Council and regulatory question beyond a consumer explainer. It is an explanation of why “why isn’t there a shop on my block?” has a structured answer in 2026: closed retail intake, a ten-slot equity ceiling, long licensing timelines, and an existing roster near twenty registered businesses. Until the city changes that architecture, South Bay locals should keep refreshing SJPD’s registered list, plan trips by council district, and treat each lawful opening as the exception it is.",
+        "That long wait also filters who can open. Capital, real-estate patience, compliance staff, and partners who understand state track-and-trace rules become prerequisites. Equity grants and academy training are designed to narrow that gap for qualifying locals, but they do not erase build-out costs or neighbor-notice timelines. When a ribbon cutting finally happens, it represents sunk years, not a spontaneous retail whim.",
+        "So when menus feel repetitive, the cause may be structural sameness in a capped city rather than a lack of imagination behind the counter. Ask about harvest dates, storage, and terpene notes anyway. Scarcity explains why shops compete on experience; it does not excuse a rushed recommendation. And when a new registered address appears, celebrate carefully: verify the SJPD list, then go see whether the multi-year wait produced a store worth adding to your short list.",
+        "Local adults who already shop licensed stores know the pattern: verify the address, read the label, and ignore anything that sounds too informal to be legal. That habit matters as much on a quiet Tuesday as it does during a busy weekend promotion calendar."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-05",
+      "published": "2026-08-05",
+      "updated": "2026-09-23",
+      "photo": "article-03",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/cannabis-equity-program"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ]
+      ],
+      "import_number": 3,
+      "source_file": "03-why-so-few-cannabis-storefronts.md"
+    },
+    {
+      "id": "ordinance-31273-plain-english",
+      "title": "Ordinance 31273 in Plain English for Shoppers",
+      "dek": "The late-2025 code update did not reopen retail applications, but it did rewrite registration timing and delivery math.",
+      "body": [
+        "Ordinance No. 31273 does not appear on a recommendation board, but it quietly reshaped the 2026 rules that decide how San Jose cannabis shops renew and how delivery locations are counted.",
+        "City materials and Municode records describe the ordinance as amending San Jose Municipal Code Chapter 6.88. It was given final adoption in late 2025 and became effective Jan. 2, 2026. The package updates the term of registration to a fiscal-year basis so that registration timing aligns with the annual operating fee; increases the number of allowed delivery locations to correspond with allowed retail storefront locations per business; aligns local code more closely with state regulations; and makes other technical, non-substantive, or formatting changes.",
+        "For shoppers, the fiscal-year registration shift is mostly invisible until a favorite store mentions renewal season. It matters because operating authorization and fees now track a July 1 fiscal calendar rather than an awkwardly mismatched anniversary system. Stable, predictable registration helps existing retailers stay in good standing, and staying in good standing is what keeps them on SJPD’s public registered list.",
+        "The delivery-location alignment is more consumer-facing. Older rules could leave delivery capacity out of sync with storefront capacity. Ordinance 31273 ties allowed delivery locations to allowed retail storefront locations per business. That does not mean every shop delivers tomorrow; it means registered operators have a clearer path to match delivery geometry to storefront geometry when they seek authorization. SJPD’s FAQ still requires a Notice of Completed Registration before any delivery is lawful.",
+        "Equity language in the ordinance package is the other headline for anyone wondering why new storefronts remain rare. The code allows up to ten new cannabis businesses to be registered as retail storefronts or dispensaries, storefronts with delivery, or delivery-only businesses to equity business owners, and only for customer transfers, not cultivation. That ten-slot frame matches the equity academy and lottery pipeline. It is a limited door, not a general reopening.",
+        "Meanwhile, SJPD’s Business Application Process page continues to state that the city is not accepting applications for new retail storefront, retail non-storefront (delivery-only), or cultivation locations. Manufacturing, distribution, and testing remain open through the city’s multi-phase registration process. Those two facts can confuse readers who hear “ordinance update” and assume the city is inviting a wave of new dispensaries. It is not. The ordinance retools rules for those already in, or specially admitted through equity channels, while leaving the general retail gate closed.",
+        "Why should a dispensary shopper care about municipal code amendments? Because scarcity shapes price competition, hours, and how far you drive. When storefront count is effectively capped near the roughly twenty registered businesses local reporting cites, each new equity opening becomes news. Delivery verification matters more when you cannot assume a shop will appear on your block next year.",
+        "Ordinance 31273 also underscores a durable San Jose theme: local registration is separate from state licensing, and neither is optional. Paying taxes does not legalize an unregistered shop. Holding a state license does not replace city registration. Consumers protect themselves by checking SJPD’s list, not by parsing sponsorship banners.",
+        "Read as a 2026 shopper’s brief, the ordinance means three practical things. Existing shops renew on a clearer fiscal clock. Delivery capacity can expand for registered operators in step with storefront rights. New general storefront applications remain closed, while up to ten equity retail or delivery registrations define the scarce path for newcomers.",
+        "Keep expectations grounded. Effective dates do not cut prices. Technical alignment with state law does not federally legalize adult-use cannabis. Fiscal-year fees do not replace sales tax or the city’s cannabis business tax. What changed in January 2026 is the local operating rulebook, the scaffolding under the calendar shoppers actually use when they ask whether a van is legal or a renewal rumor is real.",
+        "Local adults who already shop licensed stores know the pattern: verify the address, read the label, and ignore anything that sounds too informal to be legal. That habit matters as much on a quiet Tuesday as it does during a busy weekend promotion calendar.",
+        "For everyday San Jose shoppers, the through-line is verification over rumor: confirm the retailer on SJPD’s registered list, read the California label before you buy, and treat tax lines as part of the legal market rather than a personal slight from staff. That habit keeps scarce storefronts accountable and keeps informal sellers from winning on convenience alone."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-06",
+      "published": "2026-08-06",
+      "updated": "2026-09-23",
+      "photo": "article-04",
+      "sources": [
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/ordinances/code_of_ordinances?nodeId=1399880"
+        ],
+        [
+          "mcclibraryfunctions.azurewebsites.us",
+          "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/14367/1399880/pdf"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/frequently-asked-questions"
+        ]
+      ],
+      "import_number": 4,
+      "source_file": "04-ordinance-31273-plain-english.md"
+    },
+    {
+      "id": "measure-u-cannabis-business-tax",
+      "title": "Measure U and San Jose’s Cannabis Business Tax, Why Prices Feel High",
+      "dek": "Voters authorized a local gross-receipts cannabis tax years before adult-use retail, and shoppers still feel it in shelf prices.",
+      "body": [
+        "Sticker shock at a San Jose cannabis counter rarely comes from one line alone. Receipts stack California sales tax, state cannabis excise mechanics, and a local cannabis business tax authorized long before adult-use legalization. The local piece traces to Measure U.",
+        "On Nov. 2, 2010, San Jose voters approved Measure U, authorizing the city to tax marijuana businesses up to 10 percent of gross receipts to fund essential city services, according to Ballotpedia’s measure summary. SJPD’s Cannabis Regulatory Program page still summarizes Measure U and Municipal Code Chapter 4.66, noting that Ordinance No. 29262 set the marijuana/cannabis business tax at 10 percent of gross receipts. The same city guidance clarifies a point consumers sometimes miss: paying the tax does not legalize activity that is otherwise unlawful. Registration and licensing remain separate obligations.",
+        "Chapter 4.66 later differentiated rates for some non-retail activities. Municode materials show that commencing July 1, 2019, under Ordinance No. 30273, cultivation was set at 4 percent, manufacturing at 3 percent, distribution at 2 percent, and laboratory testing at 0 percent, while Measure U’s authorization ceiling remains 10 percent. Retail shoppers primarily feel the retail gross-receipts tax environment at the shelf, even when the tax is embedded upstream in pricing rather than broken out as a friendly educational footnote.",
+        "Separately, CDTFA’s Special Notice L-1022 lists San Jose’s combined sales and use tax rate rising from 9.375 percent to 10.000 percent effective April 1, 2026. August and September shoppers therefore see a full 10 percent combined sales/use rate on taxable cannabis sales in the city, stacked on top of industry-specific taxes. That April 2026 sales-tax change is distinct from Measure U’s business tax; confusing the two makes receipts harder to interpret.",
+        "How should a consumer read a ticket without turning the visit into a tax seminar? First, understand that legal cannabis is taxed more heavily than many ordinary retail goods because multiple layers apply. Second, ask staff which discounts apply before tax if you are comparing deals across shops, percentage-off promotions can be calculated differently depending on whether they apply to menu price. Third, remember that a cheaper unlicensed offer is not a tax-free bargain; it is outside the regulated system SJPD urges residents to use. Fourth, treat this article as civic explanation, not tax advice for businesses or patients.",
+        "Why does the city tax cannabis businesses this way? Measure U’s ballot framing pointed to essential services. Whatever one thinks of the rate, the policy choice predates Proposition 64’s adult-use market and survived into the licensed era through Chapter 4.66. Retailers price goods knowing gross-receipts taxes and operating fees are part of staying registered. Those costs show up in the jar price before you ever see sales tax computed at checkout.",
+        "Compare that with cities that set lower local cannabis business taxes and you may see different shelf prices, but San Jose shoppers live under San Jose’s voter-authorized ceiling and council-set schedules. Ordinance updates that change cultivation or manufacturing percentages do not automatically rewrite the consumer experience at a storefront, where retail economics dominate.",
+        "Grand-opening discounts and seasonal sales reduce menu prices; they do not erase Measure U or CDTFA rates. If a promotion feels unusually steep, still expect statutory taxes to apply according to law.",
+        "The practical takeaway for locals who already prefer licensed shops is composure at the counter. A receipt that looks high is often several policies arriving at once: Measure U’s business-tax architecture, state excise collection practices, and a combined local sales tax rate of 10.000 percent since April 1, 2026. Knowing which layer is which will not shrink the total by itself. It will keep you from blaming the budtender for a tax structure voters and agencies built over many years, and it reinforces why “buy legal” includes paying into the system that funds oversight.",
+        "Locals comparing San Jose to online menus from elsewhere in California should also watch shipping and delivery claims. If product is reserved for in-store pickup at a registered San Jose retailer, city tax architecture still applies at that register. If someone offers to meet you in a parking lot with cash-only pricing “tax free,” that is not a Measure U loophole, it is a reason to walk away and open SJPD’s registered list instead."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-08",
+      "published": "2026-08-08",
+      "updated": "2026-09-23",
+      "photo": "article-09",
+      "sources": [
+        [
+          "ballotpedia.org",
+          "https://ballotpedia.org/San_Jose_Marijuana_Tax,_Measure_U_(November_2010)"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/cannabis-regulatory-program"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT4REFIBUTA_CH4.66CABUTA"
+        ],
+        [
+          "cdtfa.ca.gov",
+          "https://cdtfa.ca.gov/formspubs/L1022.pdf"
+        ]
+      ],
+      "import_number": 9,
+      "source_file": "09-measure-u-cannabis-business-tax.md"
+    },
+    {
+      "id": "unincorporated-scc-vs-san-jose",
+      "title": "Unincorporated Santa Clara County vs. City of San Jose Shopping",
+      "dek": "County commercial bans push many South Bay buyers into San Jose’s licensed storefronts, and city tax reality.",
+      "body": [
+        "Many South Bay cannabis shoppers do not live inside San Jose city limits, yet they buy there anyway. One structural reason is written into Santa Clara County code. Division B26.5 prohibits establishing, maintaining, or operating commercial cannabis activity in the unincorporated area of the county. Section B26.5-3 states that prohibition plainly and includes clarifying language about licensed transport on public roads. Ordinance NS-300.927, adopted Sept. 11, 2018, anchors the modern ban language.",
+        "In practice, unincorporated pockets of Santa Clara County are not a place to expect a lawful dispensary storefront, delivery depot, or commercial grow. Residents there who want licensed retail generally drive into cities that permit it, San Jose among the largest. SJPD’s registered cannabis businesses page lists roughly twenty San Jose operators with addresses across council districts. The page’s warning is equally important for county residents: any cannabis business or delivery service not on the list is not registered with the city and is not operating lawfully under the San Jose Municipal Code.",
+        "The distinction between commercial bans and personal cultivation rules is easy to blur. County commercial prohibition is about business activity. California’s adult personal cultivation framework is a separate lane under state law for private residences, with plant-count and visibility limits and room for local regulation. This article’s focus is the commercial funnel into city shops, not a how-to for home gardens. Shoppers unsure about their address jurisdiction should check whether they live in the city of San Jose or in unincorporated county territory before assuming a delivery app is lawful.",
+        "Taxes travel with the purchase. When county residents buy inside San Jose, they enter the city’s tax environment. CDTFA materials for mid-2026 list San Jose’s combined sales and use tax rate at 10.000 percent. Separately, San Jose’s Measure U cannabis business tax framework authorizes a retail gross-receipts tax of up to 10 percent historically applied through Chapter 4.66, an amount that shows up in shelf pricing even when it is not itemized the way sales tax is. None of this is tax advice; it is consumer context for why South Bay tickets feel heavy compared with rumor-market expectations.",
+        "Delivery questions deserve special care. SJPD FAQ guidance states that only registered cannabis businesses that applied for and received Notice of Completed Registration may conduct deliveries. Ordinance 31273 increased allowed delivery locations to correspond with allowed retail storefront locations per business, but that city rule does not rewrite the county’s commercial ban in unincorporated areas. Confirm the retailer on SJPD’s list, ask the shop about service areas, and avoid arrangements that sound like unlicensed mid-county drop-offs.",
+        "Nearby cities with thinner cannabis retail footprints add to the inbound traffic. San Jose’s density of registered shops, relative to unincorporated blank space, makes several industrial and downtown-adjacent corridors regional destinations on weekends. For drivers, the practical map is familiar: plan parking, check hours, and verify registration before you go. Early trips can reduce weekend congestion for county residents making a deliberate city run.",
+        "Federal headlines do not erase this local geography. Even as federal medical Schedule III actions moved certain medical products, adult-use cannabis remains constrained under federal analysis for recreational shoppers. County and city rules still govern where you can lawfully buy. The journalism takeaway for late 2026 is structural: unincorporated Santa Clara County’s commercial cannabis ban funnels demand into San Jose’s licensed storefronts. Shop registered, verify delivery claims, budget for city tax reality, and leave the gray-market shortcuts alone.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone. That steady habit is how a capped local market stays accountable to the people who shop it.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide before you spend cash."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-10",
+      "published": "2026-08-10",
+      "updated": "2026-09-23",
+      "photo": "article-15",
+      "sources": [
+        [
+          "library.municode.com",
+          "https://library.municode.com/CA/santa_clara_county/codes/code_of_ordinances?nodeId=TITBRE_DIVB26.5COCAAC"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cdtfa.ca.gov",
+          "https://cdtfa.ca.gov/formspubs/L1022.pdf"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/frequently-asked-questions"
+        ]
+      ],
+      "import_number": 15,
+      "source_file": "15-unincorporated-scc-vs-san-jose.md"
+    },
+    {
+      "id": "public-consumption-plaza-parks",
+      "title": "Public Consumption: Plaza de César Chávez, Parks, and Downtown Sidewalks",
+      "dek": "California’s adult-use law did not turn downtown plazas into smoking lounges, public places remain off-limits.",
+      "body": [
+        "Plaza de César Chávez is a San Jose gathering place for festivals, protests, lunch breaks, and summer music. It is not a legal cannabis consumption lounge. Health and Safety Code section 11362.3 provides that adult-use permissions do not allow smoking or ingesting cannabis in a public place, except as authorized in limited licensed on-site consumption contexts under Business and Professions Code section 26200. Ordinary downtown sidewalks, city parks, and plaza lawns are public places for this purpose.",
+        "DCC’s consumer guidance restates the basics: you can use cannabis on private property, but not in public places like restaurants or bars. You cannot smoke cannabis where tobacco smoking is banned, and you cannot smoke within 1,000 feet of a school, day care, or youth center while children are present. Property owners can ban cannabis on private property.",
+        "San Jose’s park system sits inside those state rules. City park permits pages describe special-event and facility rules; they do not convert adult-use possession into a right to light up on a playground edge or a downtown green. Ticketed temporary cannabis events, when a city authorizes one under state event rules, are a narrow, regulated exception documented for specific dates, not a standing invitation to consume at every outdoor gathering.",
+        "Why this matters for shoppers: San Jose’s legal retail is clustered, and the walk from a car to a plaza is tempting after a purchase. Keep packages sealed. Consume later in a private residence or other private property where the owner allows it. Vaping on a sidewalk is still public consumption. Edibles ingested on a park bench still count as ingesting cannabis in a public place under the statute’s framing.",
+        "Downtown workers and SJSU students share the same geography. A lunchtime plaza visit with a sealed bag in a backpack is different from opening a package on the grass. Transit platforms and light-rail stops are not lounges. Hotel balconies depend on property rules; they are not public parks, but they are also not automatically permissive.",
+        "Enforcement priorities vary, and this article is not a prediction of who gets cited. It is a statement of the legal baseline shoppers should plan around. Licensed retail exists so adults can buy tested product; it does not create open-air cannabis culture on city greens. If you want a social atmosphere, look for privately controlled spaces that expressly allow consumption, not Plaza de César Chávez’s public lawn.",
+        "The respectful local habit is simple: buy legal, transport sealed, consume private. Downtown San Jose works better for everyone when plazas stay shared public spaces rather than contested smoke zones.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-12",
+      "published": "2026-08-12",
+      "updated": "2026-09-23",
+      "photo": "article-19",
+      "sources": [
+        [
+          "leginfo.legislature.ca.gov",
+          "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=11362.3"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sanjoseca.gov",
+          "https://www.sanjoseca.gov/your-government/departments-offices/parks-recreation-neighborhood-services/rentals-and-events/permits"
+        ],
+        [
+          "commons.wikimedia.org",
+          "https://commons.wikimedia.org/wiki/File:Plaza_de_C%C3%A9sar_Ch%C3%A1vez,_San_Jose,_Caifornia_03.jpg"
+        ]
+      ],
+      "import_number": 19,
+      "source_file": "19-public-consumption-plaza-parks.md"
+    },
+    {
+      "id": "federal-schedule-iii-shopper-expectations",
+      "title": "Federal Schedule III Talk: What Adult-Use San Jose Shoppers Should (Not) Expect",
+      "dek": "Medical scheduling headlines are not a green light for every adult-use jar, and they do not replace SJPD registration.",
+      "body": [
+        "Headlines about federal cannabis rescheduling traveled faster than the fine print. For San Jose adult-use shoppers in 2026, the careful version matters more than the viral one.",
+        "In April 2026, the U.S. Department of Justice announced an order placing FDA-approved marijuana products and marijuana products under qualifying state medical licenses into Schedule III of the Controlled Substances Act. Federal Register materials and policy explainers described Schedule III treatment for FDA-approved products and marijuana subject to a state medical marijuana license, not a blanket legalization of every adult-use jar on a California shelf. Broader administrative processes and hearings followed; adult-use recreational product is not automatically transformed into a federally routine commodity by a medical-focused order.",
+        "Marijuana Policy Project and other policy explainers emphasized a point recreational shoppers need in bold type: such orders do not federally legalize adult-use cannabis in the way a casual reader might assume. Banking relief, interstate commerce, and workplace rules do not flip overnight because a medical scheduling step occurred. Perfect-world Twitter threads are not compliance manuals.",
+        "What that means at a San Jose cash wrap:\n1. Keep shopping SJPD-registered retailers. Federal nuance does not replace city registration. 2. Do not expect overnight price collapses solely from federal medical scheduling; any accounting effects filter unevenly and slowly, if at all. 3. Medical patients and adult-use customers may eventually see operational changes behind the scenes, license structuring, research pathways, without a new federal “legalization day” banner in the window. 4. Illicit sellers sometimes misuse rescheduling headlines to claim federal law now blesses any sale. It does not.",
+        "California’s dual adult-use/medical retail landscape may see license-structure adjustments as operators respond to federal medical pathways. That is licensee plumbing, not a coupon code for recreational eighths. ID rules, public-consumption bans, and airport realities remain.",
+        "San Jose’s capped storefront market adds a local twist. Even if federal medical accounting rules eventually ease pressure on some operators, the city is still not accepting general new retail applications through ordinary intake. Schedule III headlines will not conjure a dispensary on every corner.",
+        "Until broader federal action clearly rewrites adult-use commerce, treat national news as context, not as a rewrite of your shopping checklist. ID, registration, testing, and local tax lines still govern the bag you carry out of District 3 or District 7. That steadiness is the point of a regulated market while Washington argues about the next schedule move.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-14",
+      "published": "2026-08-14",
+      "updated": "2026-09-23",
+      "photo": "article-25",
+      "sources": [
+        [
+          "justice.gov",
+          "https://www.justice.gov/opa/pr/justice-department-places-fda-approved-marijuana-products-and-products-containing-marijuana"
+        ],
+        [
+          "mpp.org",
+          "https://www.mpp.org/policy/federal/doj-reschedules-state-legal-medical-cannabis-to-schedule-iii-questions-and-answers/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ]
+      ],
+      "import_number": 25,
+      "source_file": "25-federal-schedule-iii-shopper-expectations.md"
+    },
+    {
+      "id": "banks-jobs-gun-forms-federal-law",
+      "title": "Banks, Jobs, and Gun Forms: Federal Law Still Shapes Local Life",
+      "dek": "A legal San Jose receipt does not rewrite HR policies, firearm forms, or federal banking friction.",
+      "body": [
+        "California adults can buy tested cannabis from SJPD-registered retailers and still collide with federal rules the moment money, employment, or firearms enter the chat. Adult-use legality under Proposition 64 is state law. Federal statutes and forms still shape ordinary South Bay life.",
+        "Banking remains awkward. Many banks and card networks treat marijuana-related businesses as high risk because adult-use cannabis remains federally prohibited for most commercial purposes. Shoppers feel that as cash-heavy counters, cashless ATM fees, and declined debit attempts. Medical Schedule III developments may eventually ease some operator-side tax and banking pathways for qualifying medical activity; they do not instantly turn every adult-use purchase into a normal credit-card grocery swipe. Bring cash backup.",
+        "Jobs are a second collision point. California has statutes limiting some employment discrimination related to off-duty cannabis use and limiting certain test interpretations, but exceptions exist, especially for safety-sensitive roles, federal contractors, and positions governed by federal drug-free workplace rules. Silicon Valley employers vary. A legal weekend purchase can still matter for roles that follow federal standards or company policies that remain restrictive. This article is not employment-law advice; it is a warning not to confuse a San Jose receipt with HR clearance. Read your handbook. Ask counsel or HR, not a budtender, about workplace policy.",
+        "Firearms forms are a third collision. Federal Form 4473 asks about unlawful controlled substance use. Cannabis remains a controlled substance under federal law for many purposes, and ATF materials have long warned that marijuana users are prohibited from possessing firearms under federal statute. State-legal medical or adult-use status does not automatically erase federal firearms prohibitions. People navigating both cannabis and firearm ownership need specialized legal counsel, not a newspaper explainer inventing workarounds.",
+        "Travel and immigration also sit outside local retail cheerfulness. Flying with cannabis through SJC remains a bad idea. Noncitizens should not treat California retail as immigration advice.",
+        "What shoppers can control: buy from registered retailers so product is tested and documented; keep consumption private and lease-compliant; separate cannabis spending from workplaces that forbid it; and do not invent federal loopholes from viral headlines. SJPD registration solves city legality. It does not rewrite the U.S. Code.",
+        "The mature local message is compartmentalization. Use the legal market for what it offers, testing, labels, accountability, without pretending a District 7 receipt federalizes your bank, your badge, or your Form 4473. Federal law still shapes local life. Shop accordingly.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-16",
+      "published": "2026-08-16",
+      "updated": "2026-09-23",
+      "photo": "article-26",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "justice.gov",
+          "https://www.justice.gov/opa/pr/justice-department-places-fda-approved-marijuana-products-and-products-containing-marijuana"
+        ],
+        [
+          "atf.gov",
+          "https://www.atf.gov/firearms/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 26,
+      "source_file": "26-banks-jobs-gun-forms-federal-law.md"
+    },
+    {
+      "id": "sb34-compassion-donation-pathways",
+      "title": "SB 34 Compassion Donations: How Free Medicine Pathways Work",
+      "dek": "California’s Dennis Peron and Brownie Mary Act lets licensed retailers donate tested medicinal cannabis to qualifying patients, not recreational bargain hunters.",
+      "body": [
+        "Not every San Jose cannabis trip is a recreational weekend errand. For some residents, a licensed counter is how they access medicine they struggle to afford after a diagnosis upends work and insurance. California’s SB 34, the Dennis Peron and Brownie Mary Act, created a statutory pathway for licensed operators to donate cannabis goods to medicinal patients under controlled conditions.",
+        "Bill materials and subsequent coverage describe a framework that allows designated licensees to donate medicinal cannabis products to qualified patients or primary caregivers who hold valid physician recommendations, with inventory tracked through the state’s track-and-trace system and with specified tax relief for eligible donated goods. Later legislation extended sunset timelines so the compassion pathway continues into the late 2020s rather than disappearing on an earlier deadline. Exact storefront enrollment steps vary by retailer; this article will not invent income cutoffs or forms that a particular shop has not published. The reliable consumer move is to ask a licensed shop’s patient services or management team what compassion inventory they currently have and what documentation they require.",
+        "Guardrails keep the pathway ethical. Compassion donations are not a loophole for recreational bargain hunting. They are tied to medical need and physician recommendation. Adult-use customers should not pressure staff to redirect patient inventory. Registered retailers must still follow city and state rules; donation does not mean untested product. Unlicensed sellers claiming to be “compassion clubs” without city registration remain outside SJPD’s lawful list.",
+        "If you are helping a family member explore options, start with a physician relationship, then visit a registered medical-and-adult-use retailer and ask specifically about SB 34 donation participation. Bring whatever recommendation documentation the shop requests. Be prepared for limited supply, “while available” is inherent to donated inventory. Consider also county and nonprofit resource lists for broader health-cost support; cannabis donation is one tool, not a complete safety net.",
+        "San Jose’s high-tax legal market makes affordability a live issue for patients. Measure U business taxes and CDTFA sales tax layers show up in shelf prices. Donation pathways exist partly because those economics can be impossible for people in medical crisis. That is a structural story, not a brand advertisement. Ask widely across registered retailers; compare documentation requirements; keep expectations tied to inventory reality.",
+        "Tone at the counter matters. Patients should not have to perform their illness for a discount, and staff should not be forced into public medical counseling they are not licensed to provide. SB 34 pathways work best when paperwork is clear, privacy is respected, and the product that changes hands is still tested, labeled, and logged like any other legal transfer.",
+        "September deal calendars will dominate Instagram. The compassion counter is quieter. It is also one of the clearest answers local retailers give when asked how a high-tax legal market still serves critically ill neighbors. Ask politely. Verify the shop on SJPD’s list. Let the written recommendation, not a rumor, lead the conversation.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-17",
+      "published": "2026-08-17",
+      "updated": "2026-09-23",
+      "photo": "article-27",
+      "sources": [
+        [
+          "leginfo.legislature.ca.gov",
+          "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB34"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cdtfa.ca.gov",
+          "https://cdtfa.ca.gov/industry/cannabis.htm"
+        ]
+      ],
+      "import_number": 27,
+      "source_file": "27-sb34-compassion-donation-pathways.md"
+    },
+    {
+      "id": "veterans-cannabis-south-bay-guide",
+      "title": "Veterans and Cannabis in the South Bay: A Practical Non-Hype Guide",
+      "dek": "State-legal retail is open to adult veterans, VA benefits and federal employment rules are a different conversation.",
+      "body": [
+        "South Bay veterans shop the same SJPD-registered cannabis retailers as other adults, buy the same tested products, and face the same public-consumption and driving rules. What differs is the tangle of federal benefits, VA clinical policy, and workplace rules that sit beside California’s adult-use market. A practical guide keeps those lanes separate.",
+        "California retail basics still come first. Adults 21 and older can purchase adult-use cannabis; medicinal purchases with a physician’s recommendation follow medicinal rules. Check the retailer on SJPD’s registered list. Keep packages sealed in the car. Do not consume in plazas or parks. Taxes apply. None of that disappears because of military service history.",
+        "VA care is a separate federal system. Veterans should not assume a San Jose dispensary visit is coordinated with VA clinicians. Ask VA providers directly about cannabis and your treatment plan. Do not stop prescribed medications based on a budtender conversation. This article is not medical advice and will not invent VA formulary claims.",
+        "Employment and benefits require caution. Federal employment, security clearances, and some contractor roles continue to treat cannabis as disqualifying or problematic regardless of California law. Firearm form questions remain federally framed. Veterans navigating guns, clearances, or federal jobs need specialized counsel, not a strain recommendation.",
+        "Cost pressure is real. Disability income and fixed budgets collide with San Jose’s tax stack. Ask registered retailers about any published veteran discounts if they offer them, policies vary and change, and ask about medicinal donation pathways under SB 34 if you qualify as a medicinal patient with a recommendation. Discounts are retailer policies, not city entitlements. Verify rather than expect.",
+        "Community culture sometimes overpromises cannabis as a universal trauma solution. Hype helps nobody. What licensed retail can offer is tested product, labeled potency, and a lawful counter. What it cannot offer is a guarantee about PTSD, sleep, or pain. Clinicians and evidence reviews belong in that conversation.",
+        "Practical South Bay tips: shop registered; keep receipts for personal records if you track what works; prefer lower-dose trials; avoid mixing with alcohol when you are learning a new product; and arrange safe transportation. Peer stories can be supportive and still be anecdotes.",
+        "Veterans deserve clear information without recruitment into wellness mythology. Use California’s legal channel for what it is good at, accountability and testing, and keep federal benefits questions with the agencies that manage them.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-08-19",
+      "published": "2026-08-19",
+      "updated": "2026-09-23",
+      "photo": "article-29",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "va.gov",
+          "https://www.va.gov/"
+        ],
+        [
+          "leginfo.legislature.ca.gov",
+          "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB34"
+        ]
+      ],
+      "import_number": 29,
+      "source_file": "29-veterans-cannabis-south-bay-guide.md"
+    },
+    {
+      "id": "students-sjsu-discount-myths-id-rules",
+      "title": "SJSU and Community-College Students: Discount Myths vs. ID Rules",
+      "dek": "Student discounts may exist as retailer promotions, age 21 adult-use ID rules do not bend for campus proximity.",
+      "body": [
+        "San Jose State University sits downtown, blocks from plazas and transit, in a city with scarce cannabis storefronts. Students hear campus lore about discounts, delivery hacks, and “everyone has a plug.” Licensed retail reality is blunter: adult-use sales require age 21 and older, medicinal sales with a recommendation can begin at 18, and SJPD registration still decides which businesses are lawful.",
+        "ID rules do not flex for campus proximity. A valid government ID showing you are 21 is required for adult-use purchases. Fake IDs are a crime, not a rite of passage. Retailers who refuse questionable identification are protecting licenses. Students who are 18–20 with a physician’s recommendation may shop medicinal lanes where offered; that is a paperwork path, not a party workaround.",
+        "Discount myths deserve daylight. Some licensed retailers run student promotions with school ID plus meeting age rules; others do not. A flyer on Instagram is not a guarantee. Ask the registered shop directly. No legitimate discount erases sales tax or Measure U-driven pricing. No coupon makes an unregistered seller lawful. “Student deal” language from accounts that will not name a licensed business is a red flag.",
+        "Campus and housing rules stack on top of state law. Residence halls and private apartments often ban smoking and may ban cannabis entirely. SJSU students should read housing contracts. Public consumption on campus grounds and downtown sidewalks remains unlawful under Health and Safety Code section 11362.3’s public-place restrictions. Studying high in the library is not a legal strategy.",
+        "Financial and academic caution: cannabis spending competes with rent in Silicon Valley. Impaired driving after a purchase is illegal. Federal financial aid questions have evolved over time, but students with concerns should check current federal student-aid guidance rather than dorm rumor. International students face immigration stakes that make unlicensed product and campus discipline especially unwise, seek qualified immigration counsel for personal situations.",
+        "Practical student checklist:\n1. Confirm age eligibility before you go. 2. Use SJPD’s registered list, not a classmate’s unmarked delivery account. 3. Start with low-dose products if you are new; edibles wait longer than you think. 4. Budget for tax; legal totals surprise first-timers. 5. Keep product sealed on VTA or in rideshares; consume only where private property rules allow.",
+        "Community-college students across the South Bay face the same age gates and often longer trips to San Jose’s registered shops because local storefronts are few. Plan the ride. Do not treat scarcity as an excuse for illicit markets.",
+        "Campus life generates folklore. Licensed retail generates receipts, labels, and ID checks. Choose the boring path.",
+        "Adults who already prefer licensed San Jose retailers can treat the guidance above as maintenance, not conversion: verify the shop, read the label, budget for tax, and leave gray-market shortcuts alone.",
+        "When in doubt, reopen SJPD’s registered cannabis businesses page and the Department of Cannabis Control’s consumer “what’s legal” guide."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-08-21",
+      "published": "2026-08-21",
+      "updated": "2026-09-23",
+      "photo": "article-30",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "leginfo.legislature.ca.gov",
+          "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=11362.3"
+        ],
+        [
+          "sjsu.edu",
+          "https://www.sjsu.edu/"
+        ]
+      ],
+      "import_number": 30,
+      "source_file": "30-students-sjsu-discount-myths-id-rules.md"
+    },
+    {
+      "id": "food-trucks-cannabis-events-eat-dont-consume",
+      "title": "Food Trucks at Cannabis Events: Eat, Don’t Consume On-Site",
+      "dek": "BBQ lines and DJ sets borrowed festival grammar for adult retail weekends. The food is the point outdoors, the cannabis waits for private property.",
+      "body": [
+        "San Jose’s licensed cannabis shops are not lounges. Public consumption remains tightly limited, and event pages do not magically authorize sidewalk smoking. Yet 2026’s openings and brand takeovers made something else obvious: adult retail is borrowing neighborhood-festival grammar, coffee, BBQ, DJs, balloon arcs, to welcome customers 21 and older before they reach the register.",
+        "Local coverage of late-summer and September grand openings and takeover weekends described food trucks, free coffee service, vendor booths, and live music staged near industrial corridors and commercial streets. Retail calendars across town advertised BBQ windows, DJs, and ticketed block-party energy downtown. Scrub the brand competition out of the lesson and the shopper rule stays identical: eat the food, enjoy the music if you have a ticket, buy tested product from a registered business, then leave to consume on private property with permission.",
+        "Why the food? Retailers and industry voices quoted in student and local press have noted that product assortments converged across shops, so experience and price carry more weight. Free drinks and a playlist will not change a jar’s lab results, but they can make a first visit feel less clinical in a city with roughly twenty registered cannabis businesses on recent SJPD snapshots, and ordinary new retail applications still closed.",
+        "Consumers should keep legal bright lines visible. Buying at a registered shop is legal for adults who meet ID rules. Consuming on-site in public generally is not, unless a specifically permitted consumption lounge model applies, and typical takeover pages describe retail parties, not licensed on-site consumption venues. Rideshare helps when celebrations run long. Bag policies, parking quirks, and while-supplies-last rules apply to freebies and discounted brands alike.",
+        "For longtime locals who remember medical storefronts that felt more like clinics than community spaces, the shift is cultural. Cannabis retail is still regulated, taxed, and ID-gated. It is also learning to host. Food trucks are hospitality. They are not a loophole. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Dante Cruz",
+      "beat": "Music & local events",
+      "type": "Local guide",
+      "topic_date": "2026-08-23",
+      "published": "2026-08-23",
+      "updated": "2026-09-23",
+      "photo": "article-50",
+      "sources": [
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ],
+        [
+          "mitpsj.com",
+          "https://www.mitpsj.com/420-in-the-park/april18/"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 50,
+      "source_file": "50-food-trucks-cannabis-events-eat-dont-consume.md"
+    },
+    {
+      "id": "concert-nights-downtown-purchase-before-show",
+      "title": "Concert Nights Downtown: Plan the Purchase Before the Show",
+      "dek": "Downtown shows reward timing. Buy legal earlier, keep product sealed, and do not treat plazas or sidewalks as green rooms.",
+      "body": [
+        "Downtown San Jose concert nights, club shows, plaza festivals, touring acts, compress logistics: parking, dinner, security lines, last light rail. Cannabis shoppers who wait until after doors open invent problems. The calmer plan is earlier in the day.",
+        "Purchase at a city-registered retailer while you are sober, fed, and unhurried. Read labels at the counter, not with a flashlight in a venue bathroom. Choose formats that match your night: a sealed beverage for home afterward is different from a smelly preroll you will be tempted to light between sets. If you use edibles, remember onset delay; dosing at the venue entrance is how people get too high during the encore and struggle to get home.",
+        "Public consumption remains generally prohibited. Plaza de César Chávez lawns, sidewalk lines, and parking garages are not exceptions because a DJ is loud. Event security can and does enforce venue rules. Keep product sealed; know California possession limits; never drive impaired after the show. Rideshare surge pricing is cheaper than a DUI.",
+        "Ticketed cannabis-culture concerts and Music in the Park programming show how downtown already mixes music and adult culture. They do not rewrite consumption law. Eat vendor food on-site. Take cannabis home. If your group wants a shared session, designate a private residence and a non-impaired driver or rideshare lead before the first pour of anything, alcohol included.",
+        "Bag policies at some shops ban large backpacks; venues have their own restrictions. Travel light. Plan water. Plan ear protection. Plan the purchase before the show so the music stays the main memory. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Dante Cruz",
+      "beat": "Music & local events",
+      "type": "Local guide",
+      "topic_date": "2026-08-25",
+      "published": "2026-08-25",
+      "updated": "2026-09-23",
+      "photo": "article-54",
+      "sources": [
+        [
+          "mitpsj.com",
+          "https://www.mitpsj.com/420-in-the-park/april18/"
+        ],
+        [
+          "metrosiliconvalley.com",
+          "https://www.metrosiliconvalley.com/420-in-the-park-san-jose-lineup-schedule/"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 54,
+      "source_file": "54-concert-nights-downtown-purchase-before-show.md"
+    },
+    {
+      "id": "music-in-the-park-plaza-cannabis-norms",
+      "title": "Music in the Park, Plaza Culture, and Cannabis Norms",
+      "dek": "Plaza de César Chávez is downtown’s living room. Cannabis culture may appear on festival posters, public consumption still generally may not.",
+      "body": [
+        "Plaza de César Chávez anchors downtown gathering: lunch breaks, festivals, political rallies, and Music in the Park seasons that turn warm evenings into communal listening rooms. In April 2026, that plaza culture crossed explicitly into cannabis-culture programming with 420 in the Park, a ticketed Music in the Park weekend described by Metro Silicon Valley and event organizers as music, food, education, and elevated vibes produced with adult-use partners.",
+        "Norms matter more than vibes. San Jose’s municipal cannabis framework and Proposition 64’s statewide baseline generally prohibit public consumption except in limited circumstances. A festival wristband is not a consumption license unless organizers and the city create a specifically permitted space, and shoppers should read event rules rather than assume. Eat the food. Hear the band. Take photos. Keep cannabis sealed if you legally possess it, or leave it home.",
+        "Licensed retail near downtown exists for a reason: adults can purchase tested products before or after plaza nights without needing a park bench session. ID checks, tax collection, and sealed exit bags are features. The plaza remains a shared civic space that includes families, tourists, and people who do not want secondhand smoke.",
+        "Practical plaza etiquette for cannabis-curious adults: hydrate, use restrooms, respect quiet neighbors on blankets, and skip the urge to “match the poster.” If you overdid an edible elsewhere, the lawn is a bad place to discover it, have a rideshare plan. Music in the Park’s broader calendar proves downtown can host culture without every event becoming a consumption story. Carry that norm forward: celebrate the plaza, buy legal elsewhere, consume private later. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Dante Cruz",
+      "beat": "Music & local events",
+      "type": "Local guide",
+      "topic_date": "2026-08-27",
+      "published": "2026-08-27",
+      "updated": "2026-09-23",
+      "photo": "article-55",
+      "sources": [
+        [
+          "mitpsj.com",
+          "https://www.mitpsj.com/420-in-the-park/april18/"
+        ],
+        [
+          "metrosiliconvalley.com",
+          "https://www.metrosiliconvalley.com/420-in-the-park-san-jose-lineup-schedule/"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 55,
+      "source_file": "55-music-in-the-park-plaza-cannabis-norms.md"
+    },
+    {
+      "id": "420-season-san-jose-after-park-festivals",
+      "title": "420 Season in San Jose: What Changed After Downtown Park Festivals",
+      "dek": "April 2026 put a ticketed 420 weekend on the plaza calendar. The lasting change is cultural visibility, not a rewrite of public-use law.",
+      "body": [
+        "For years, San Jose’s 420 energy lived in private parties, licensed retail promos, and informal networks. April 18–19, 2026, marked a visible shift: 420 in the Park brought a ticketed, 21-plus weekend of music, food, and cannabis culture to Plaza de César Chávez under the Music in the Park umbrella, with lineup coverage from Metro Silicon Valley and event pages listing reggae and hip-hop bills across two days.",
+        "What changed is legitimacy of downtown cultural space for adult cannabis celebrations as programmed festivals. What did not automatically change is the Municipal Code’s general prohibition on public consumption. Attendees who treated the plaza like a legalization victory lap risked confusing marketing with law. The durable shopper lesson is sequencing: enjoy the civic party, buy from registered retailers, consume on private property.",
+        "Seasonal retail calendars still spike around April with deals and branded events. Scarcity of storefronts means lines form. Bring ID, travel light, and ignore pop-up Instagram “delivery” accounts that are not on SJPD’s list. Families and non-consumers still use downtown; courtesy is part of keeping festival permissions politically possible in future years.",
+        "420 season also expands beyond one weekend, shoulder promos, concert afterparties, and private gatherings. Apply the same norms everywhere: consent, sealed transport, no driving high, child-safe storage afterward. The plaza experiment showed San Jose can host cannabis culture in public view. Adult discipline decides whether that visibility remains welcome. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Dante Cruz",
+      "beat": "Music & local events",
+      "type": "Local guide",
+      "topic_date": "2026-08-28",
+      "published": "2026-08-28",
+      "updated": "2026-09-23",
+      "photo": "article-56",
+      "sources": [
+        [
+          "mitpsj.com",
+          "https://www.mitpsj.com/420-in-the-park/april18/"
+        ],
+        [
+          "metrosiliconvalley.com",
+          "https://www.metrosiliconvalley.com/420-in-the-park-san-jose-lineup-schedule/"
+        ],
+        [
+          "library.municode.com",
+          "https://library.municode.com/ca/san_jose/codes/code_of_ordinances?nodeId=TIT6BULIRE_CH6.88MENDICA"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 56,
+      "source_file": "56-420-season-san-jose-after-park-festivals.md"
+    },
+    {
+      "id": "women-queer-bipoc-shoppers-respectful-rooms",
+      "title": "Women, Queer, and BIPOC Shoppers: Finding Respectful Rooms",
+      "dek": "Respect is a service standard, not a niche marketing slogan. Shoppers can spot it without needing a guided tour of any one store.",
+      "body": [
+        "Cannabis retail inherits decades of unequal policing, gendered stigma, and coded “bro” culture. Women, queer, and BIPOC shoppers in San Jose are not a monolith, and they should not need bravery simply to buy a tested eighth. This is not a store tour. It is a checklist for reading a room.",
+        "Respect looks like ordinary professionalism: eye contact without harassment, no unsolicited comments on appearance, patience with questions, willingness to explain milligrams without condescension, and security that protects without profiling. It sounds like staff using stated names and pronouns when offered. It feels like being offered the same deals and education as any other adult, not a stereotype about what “your people” buy.",
+        "Red flags include jokes that sexualize women customers, deadnaming, racist banter behind the counter, pressure to buy higher-THC products after you stated a low-dose goal, or dismissing safety concerns about getting home. You can leave. In a city with a short registered list, leaving still matters, behavior travels by word of mouth faster than billboards.",
+        "Practical tactics: shop with a friend if that increases comfort; choose quieter hours; write your goals on your phone before security; ask for a different staff member if needed; keep receipts; report clear discrimination through company channels or appropriate city processes when warranted. Delivery can reduce time on a sales floor if the operator is properly authorized and your address qualifies, still verify licensing.",
+        "Community discounts for equity-related programs, veterans, or medical patients are policy tools some retailers offer; ask factually. Do not assume any single demographic owns cannabis culture in San Jose, the city’s Mexican, Vietnamese, Black, South Asian, queer, and many other communities all include adult consumers. Visibility at plaza festivals and lawful retail should expand belonging, not create new gatekeeping.",
+        "Respectful rooms are measurable: you leave with the product you meant to buy, your boundaries intact, and no story you have to shake off in the parking lot. That is the standard. Demand it. In San Jose’s limited storefront market, preparation beats impulse: verify the shop on SJPD’s registered cannabis businesses list, bring ID, read the package yourself after any recommendation, and keep consumption on private property with permission. Adult-use sales require customers 21 and older. Tax totals at checkout still apply. None of those retail realities replace clinician advice when health questions are personal. Quiet morning visits can leave more time for label reading than Saturday afternoon rushes after neighborhood events. Keep a simple personal log of milligrams, format, and how you felt the next day; pattern recognition beats lore. Share products only with other adults who consented, and store anything that looks like candy or soda away from kids and pets. If a sale tempts you to stock up, remember that discounts change cost, not onset time, impairment risk, or your calendar. South Bay adults who already shop licensed rooms know the pattern: lawful address, clear label, private use, rideshare when needed."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-08-30",
+      "published": "2026-08-30",
+      "updated": "2026-09-23",
+      "photo": "article-60",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "mitpsj.com",
+          "https://www.mitpsj.com/420-in-the-park/april18/"
+        ],
+        [
+          "spartanmediagroup.net",
+          "https://spartanmediagroup.net/11126/spartan-daily/new-shop-smokes-grand-opening/"
+        ]
+      ],
+      "import_number": 60,
+      "source_file": "60-women-queer-bipoc-shoppers-respectful-rooms.md"
+    },
+    {
+      "id": "east-sj-gambling-raid-illicit-vs-licensed",
+      "title": "East San Jose Gambling Raid: Illicit Cannabis in Crime Scenes vs. Licensed Retail",
+      "dek": "SJPD’s Sept. 16 seizure paired illegal gaming machines with about 13 pounds of marijuana. For licensed shoppers, the lesson is supply-chain clarity, not panic.",
+      "body": [
+        "San Jose Police Department officers announced on Sept. 16, 2026, that they had shut down an east San Jose clandestine gambling establishment after a months-long investigation and a search warrant. According to SJPD’s public account on X, officers seized 14 illegal gambling machines, about 13 pounds of marijuana, cash, narcotics, and parts used to manufacture machines. Five people were arrested, and 17 others were cited.",
+        "Refresh the framing for adults who already shop licensed counters: this is not a story claiming every informal bag funds a gambling den. It is a documented case where unregulated cannabis appeared inside another illegal business, far from California’s tested, taxed, and track-and-trace retail system. SJPD did not describe the seized marijuana as inventory from a registered San Jose storefront. The department reported a combination that matters to community safety: illicit gaming infrastructure, cash, narcotics, and a sizable marijuana haul recovered together.",
+        "That mix is why San Jose’s “buy legal” message stays practical even for shoppers who never go near an illegal gaming house. Registered cannabis businesses must meet security, lighting, and nuisance standards under local rules. Products sold through the legal channel are subject to California testing and labeling. County weights-and-measures checks apply to scales. If something goes wrong, consumers have identifiable businesses, receipts, and complaint channels rather than an anonymous room behind a commercial facade.",
+        "San Jose’s legal storefront map sharpens the distinction. The city’s Division of Cannabis Regulation continues to state that applications for new retail storefronts, delivery-only businesses, and cultivation remain closed through ordinary intake, while manufacturing, distribution, and testing stay open. Equity rules allow up to ten retail registrations for qualified equity owners who complete academy training, a narrow on-ramp, not a flood of new shops. In a city of nearly a million residents, scarcity means many neighborhoods still require a deliberate trip to a lawful counter. Scarcity does not excuse illicit sales. It helps explain why enforcement stories and retail stories collide in the same news cycle. When storefronts are few, demand does not disappear; it either drives to a registered address, orders from a city-authorized delivery operator, or drifts toward informal sources.",
+        "SJPD’s Division of Cannabis Regulation states the rule plainly on its registered-businesses page: any cannabis business or delivery service not on the city’s list is not operating lawfully under the San Jose Municipal Code. A gambling raid with marijuana on the inventory list is one more reminder that “someone had flower” is not the same as “someone held a state retail license and city registration.”",
+        "Shoppers do not need to become amateur investigators. Check the live SJPD registered cannabis businesses list before visiting a new shop or answering a delivery pitch. Match the business name and street address. For newer openings, cross-check the state retail license number against city registration rather than assuming a social-media flyer equals authorization. Keep receipts. Those steps do not moralize adult use; they treat cannabis the way San Jose already treats other regulated goods, with an inspectable seller on the other side of the counter.",
+        "Community safety belongs in the picture without fearmongering. Illegal gambling dens and similar underground businesses can attract violence, fraud, and organized criminal activity, concerns SJPD has raised around such enforcement. Cannabis appearing in those environments does not prove every unlicensed bag funds the same harms. It does show why the legal retail system exists as a different marketplace: ID checks, security requirements, tax collection, and product testing that backroom channels do not guarantee.",
+        "South Bay adults who already prefer licensed shops can read the east San Jose seizure as confirmation rather than conversion. The regulated aisle is not perfect, prices stack taxes, menus can feel repetitive in a capped market, and parking is rarely glamorous. What it offers is accountability. A jar with a track-and-trace history is harder to confuse with inventory recovered next to illicit gaming machines. In a market where new storefronts arrive slowly, protecting that distinction is part of being a careful local consumer.",
+        "None of this requires pretending adult cannabis use is risk-free or that enforcement alone solves underground economies. It asks a narrower question shoppers can answer every week: Who sold this, and are they on San Jose’s registered list? When SJPD reports pounds of marijuana inside a clandestine gambling bust, the licensed counter’s value is not abstract. It is the difference between a regulated purchase and product living in the same case file as illegal machines, cash, and narcotics."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "News & features",
+      "topic_date": "2026-09-17",
+      "published": "2026-09-17",
+      "updated": "2026-09-23",
+      "photo": "article-61",
+      "sources": [
+        [
+          "x.com",
+          "https://x.com/SanJosePD/status/2100339693275828430"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/cannabis-equity-program"
+        ]
+      ],
+      "import_number": 61,
+      "source_file": "61-east-sj-gambling-raid-illicit-vs-licensed.md"
+    },
+    {
+      "id": "western-division-marijuana-ghost-guns",
+      "title": "Western Division Stop: Marijuana, Ghost Guns, and Knowing Your Source",
+      "dek": "An Aug. 24 SJPD vehicle stop that bundled smoked cannabis, sales indicia, and illegally built firearms is a youth-and-safety story licensed shoppers can use without the lecture.",
+      "body": [
+        "On Aug. 24, 2026, San Jose Police Department officers working Western Division reported stopping a vehicle whose occupants were smoking marijuana. Two passengers fled and were later detained, SJPD said. A search turned up two firearms, one privately made, and both with illegal extended magazines, plus a large bag of marijuana and indicia of sale. A 19-year-old was booked into Santa Clara County Jail, and a 15-year-old was booked into juvenile hall, according to the department’s account.",
+        "The San Jose Police Officers’ Association summarized the same incident the next day, highlighting a ghost gun, illegal extended magazines, and a large bag of marijuana among items seized. That post corroborates one event; it is not a second raid. Details can vary slightly across summaries; the booking ages and primary chronology here follow SJPD’s Aug. 24 description.",
+        "For San Jose and South Bay adults who buy from licensed dispensaries, the useful reading is not “marijuana equals guns.” Plenty of lawful adult purchases never share a case file with a firearm. The useful reading is how street-adjacent sales can differ from regulated retail, and why a “know your source” habit protects personal safety and community norms around youth access.",
+        "California’s legal adult-use system is built around age gates, licensed premises, and products that move through testing and track-and-trace. San Jose adds a city registration layer: only businesses on SJPD’s registered cannabis list may lawfully sell or deliver here under the Municipal Code. A counter that checks identification, records inventory, and answers to inspections is structurally different from a car stop that police say involved smoking, flight, sales indicators, and illegal firearms, including a privately made gun that can be harder to trace than a commercially serialized weapon.",
+        "Youth involvement sharpens the point. Booking a 15-year-old into juvenile hall in connection with an adult-use product and alleged sales context is a reminder that informal markets do not run ID scanners the way registered shops do. Licensed retailers in San Jose are not allowed to sell to minors. That rule is not a branding slogan; it is one of the clearest consumer-facing differences between a storefront with cameras and a transaction that starts with a text message. Adults who already shop legal can reinforce that line without moralizing cannabis itself: keep product secured, do not supply minors, and do not treat “someone’s cousin has a deal” as equivalent to a registered retailer.",
+        "Ghost guns and extended magazines belong in the same practical conversation because they mark a different risk environment. SJPD’s description placed illegally configured firearms in the same stop as a large marijuana bag and sales indicia. Shoppers cannot police every parking lot. They can refuse to buy from people they cannot identify, insist on licensed storefronts or city-authorized delivery, and treat any seller who mixes cannabis with weapons talk as a hard stop. That is risk management, not culture-war rhetoric.",
+        "San Jose’s scarce retail map makes informal alternatives tempting for some buyers. Ordinary retail applications for new storefronts and delivery-only businesses remain closed; equity pathways create limited new openings; and local reporting has placed registered cannabis businesses near the twenty mark. The consumer countermeasure is boring and effective: bookmark SJPD’s registered list, confirm the name and address, and ignore flashy third-party ads that never appear on the city roster.",
+        "“Know your source” guidance can stay concrete. Prefer shops on the current SJPD registered locations page. For delivery, confirm city delivery authorization rather than assuming an app logo equals legality. Ask for labeling that shows testing and batch information. If a friend offers a bulk deal from an unnamed grow, treat the missing license number as the story.",
+        "None of this claims that every person who smokes in a car is selling, or that every privately made firearm case involves cannabis. It reports what SJPD said about one Western Division stop and connects it to choices licensed shoppers already make. Regulated retail will not eliminate illegal guns or juvenile involvement in street economies. It does give adults a lawful, inspectable place to buy, one designed to keep minors out and to keep product separate from the kinds of seizures that dominate public-safety posts.",
+        "When local police describe marijuana, sales indicators, and ghost guns in the same encounter, the takeaway for South Bay dispensary customers is straightforward. Buy where the city says you may buy. Age-gate your own household the way shops age-gate the door. And remember that a legal jar with a receipt is not just a lifestyle preference; it is a different supply chain from the one that ends in a Western Division search."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "News & features",
+      "topic_date": "2026-09-03",
+      "published": "2026-09-03",
+      "updated": "2026-09-23",
+      "photo": "article-62",
+      "sources": [
+        [
+          "x.com",
+          "https://x.com/SanJosePD/status/2092007263246729514"
+        ],
+        [
+          "x.com",
+          "https://x.com/ProtectSanJose/status/2092364832905613518"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/frequently-asked-questions"
+        ]
+      ],
+      "import_number": 62,
+      "source_file": "62-western-division-marijuana-ghost-guns.md"
+    },
+    {
+      "id": "fake-shops-instagram-menus-red-flags",
+      "title": "Fake Shops and Instagram Menus: Red Flags for San Jose Shoppers",
+      "dek": "Polished reels and DM menus are not city registration. A short checklist keeps South Bay adults on the lawful side of scarce storefronts.",
+      "body": [
+        "San Jose’s capped cannabis retail market creates a vacuum that social media loves to fill. Flashy Instagram menus, Telegram price lists, and “same-day” stories can look as professional as a licensed storefront, sometimes more so. For shoppers, the question is not whether the graphics are good. It is whether the seller appears on SJPD’s registered cannabis businesses list and holds the required state licenses.",
+        "Start with the city’s own language. SJPD’s Division of Cannabis Regulation states that any cannabis business or delivery service not on the registered list is not operating lawfully under the San Jose Municipal Code. That sentence is the entire anti-fake-shop doctrine in one line. Bookmark the list. Search the business name. Confirm the street address. If the account refuses to publish a physical address, or the address never appears on the city roster, treat the pitch as unlicensed. Screenshots age badly; check the live list on the day you plan to buy.",
+        "Red flags cluster quickly once you look for them. Menus that only live in DMs. Prices that undercut every taxed legal shelf by a dramatic margin with no explanation. Pressure to pay in cryptocurrency, gift-card codes, or peer-to-peer apps with no receipt. Drivers who will not show identification tied to a licensed operator. “Pop-up” storefronts in unmarked suites. Claims that a shop is “in the lottery” or “waiting on paperwork” while already selling. None of those patterns prove criminal intent by themselves, but together they describe a marketplace outside the inspectable system California built after Proposition 64.",
+        "Licensed retail is imperfect and often expensive. San Jose’s combined sales and use tax environment and local cannabis business taxes stack onto wholesale costs. Scarcity limits competition. Those realities make bargain hunters vulnerable. A too-good eighth is not automatically adulterated, but it is also not automatically tested. Legal products must meet labeling and laboratory standards that illicit supply chains do not guarantee. If a seller cannot show a batch label, a license number, and a city registration match, you are guessing about pesticides, potency, and chain of custody.",
+        "Mimicry is another trap. Lookalike logos, similar colorways, and borrowed brand photography appear in unlicensed ads statewide. Cross-check brand authenticity at a registered counter rather than trusting a screenshot. If a “deal” requires you to meet in a parking lot behind a strip mall, you are not at a dispensary, you are in a private sale that may violate commercial licensing rules regardless of adult age. “Gifting” language that quietly expects payment for stickers, memberships, or tips is a known workaround pattern statewide; California’s lawful gift rules require no compensation whatsoever and stay within possession limits between adults 21 and older.",
+        "Delivery apps and aggregators add confusion. An app logo is not a municipal registration. Confirm the underlying business on SJPD’s list and whether that specific location is authorized for delivery. San Jose’s FAQ and business-application materials continue to emphasize Notices of Completed Registration and closed ordinary intake for new retail and delivery-only applications. Equity pathways create limited new openings; they are not a free-for-all for every viral account.",
+        "What to do instead is dull on purpose. Shop registered addresses. Call the phone number listed on the city’s page if you need to confirm hours. Keep receipts. Report suspected unlicensed storefronts through appropriate city channels rather than arguing in comments. If friends share a menu screenshot, ask whether they checked the roster, not whether the budtender in the story seemed nice. Teach new arrivals to San Jose the same habit: city list first, cart second.",
+        "Fake shops thrive on urgency and secrecy. Legal shops thrive on boring paperwork. In a city where storefronts stay scarce by design, that paperwork is the shopper’s best fraud filter. Scroll less. Verify more. Leave with a receipt that points to a real address on San Jose’s list, and treat every glossy menu that cannot clear that bar as entertainment, not a store."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-09-05",
+      "published": "2026-09-05",
+      "updated": "2026-09-23",
+      "photo": "article-64",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/frequently-asked-questions"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "california.public.law",
+          "https://california.public.law/codes/health_and_safety_code_section_11362.1"
+        ]
+      ],
+      "import_number": 64,
+      "source_file": "64-fake-shops-instagram-menus-red-flags.md"
+    },
+    {
+      "id": "sustainability-packaging-waste",
+      "title": "Sustainability: Packaging Waste and California’s Cannabis Trash Problem",
+      "dek": "Child-resistant tubes and multilayer pouches protect kids, and fill trash cans. South Bay shoppers can reduce waste without pretending regulation is optional.",
+      "body": [
+        "Open any legal cannabis bag in San Jose and you will meet the industry’s environmental paradox: layers of plastic, paper warnings, tamper bands, and rigid tubes designed to defeat small hands. Those features exist because California requires child-resistant and tamper-evident packaging for many products. They also create a trash stream that municipal recycling bins were never designed to love.",
+        "Public discussion of “pot’s plastic problem” has followed legalization across North America. Child-resistance, odor control, and freshness rules push brands toward materials that are durable and often multilayered, exactly the combinations that confuse recycling facilities. Industry and advocacy pieces have estimated large volumes of single-use cannabis packaging entering waste systems; even when specific tonnage figures vary by study, South Bay shoppers can see the local evidence in their own kitchen after a month of gummies and pre-rolls.",
+        "California’s State Auditor reported in 2025 that Poison Control calls related to cannabis ingestion among children five and younger rose 469 percent from 2016 to 2023, underscoring why child-resistant design remains non-negotiable. The same audit criticized unclear rules and uneven enforcement around packaging that may be attractive to children. Shoppers live between those poles: keep kids safe, stop filling landfills with unnecessary shells, and still buy tested product.",
+        "What can a consumer actually do? First, buy only what you will finish. Deal culture encourages stockpiling; leftover packaging multiplies either way. Second, prefer formats with less nested plastic when they meet your needs, some bulk flower jars and certain reusable approaches reduce per-use waste compared with a forest of single pre-roll tubes, though availability varies. Third, follow city sorting rules honestly. Wish-cycling dirty multilayer pouches into recycling can contaminate loads; when in doubt, trash correctly rather than “hope recycle.” Fourth, ask retailers whether they participate in any take-back or specialized recycling pilots, without turning this article into a single-store advertisement. Participation changes; the question travels.",
+        "Manufacturers and regulators share the harder work: designing child-resistant systems that use less material, clarifying recyclability claims, and enforcing rules against packaging that markets to kids. California has also moved on broader packaging claims, shoppers will see recycling language evolve as state truth-in-labeling rules take hold for packaging made after future compliance dates. Read claims skeptically; a green leaf logo is not a materials science report.",
+        "Illicit market product does not solve sustainability. Untested bags may use less formal packaging, but they also skip the safety architecture and tax base that fund oversight. Environmental frustration is real; it is not a rationale to abandon licensed retail.",
+        "San Jose’s scarce storefront map means many shoppers already consolidate trips. Use that habit: plan purchases, decline redundant bags when you can carry a reusable tote for non-cannabis items outside the exit, and store empty packages safely until disposal so pets and kids never treat them as toys. If you home-grow within plant limits, you still need lawful packaging when transporting beyond personal possession norms, and you still generate waste from nutrients and plastics in the grow itself.",
+        "Sustainability for cannabis consumers is incremental, not pure. Keep child resistance. Reduce impulse plastic. Sort honestly. Support clearer rules. The goal is fewer tubes in the landfill without more gummies in toddler hands, a trade space San Jose households navigate every week.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-09-07",
+      "published": "2026-09-07",
+      "updated": "2026-09-23",
+      "photo": "article-72",
+      "sources": [
+        [
+          "auditor.ca.gov",
+          "https://www.auditor.ca.gov/wp-content/uploads/2025/08/2024-105-Fact-Sheet.pdf"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "plasticpollutioncoalition.org",
+          "https://www.plasticpollutioncoalition.org/blog/2025/9/12/pot-plastic-problem-how-can-cannabis-truly-go-green"
+        ],
+        [
+          "hightimes.com",
+          "https://hightimes.com/news/california-news/dispensary-cannabis-packaging-waste/"
+        ]
+      ],
+      "import_number": 72,
+      "source_file": "72-sustainability-packaging-waste.md"
+    },
+    {
+      "id": "tourism-day-map-downtown-plazas",
+      "title": "Tourism Day Map: Downtown Plazas and Legal Purchase Timing (Neutral Guide)",
+      "dek": "Visitors can walk plazas, museums, and transit, and still make a lawful cannabis purchase, if they time ID checks, sealed transport, and private consumption correctly.",
+      "body": [
+        "Downtown San Jose rewards a walking day: Plaza de César Chávez, the Tech Interactive, San Jose Museum of Art, the Guadalupe River Trail edges, and SAP Center event nights when the calendar aligns. Adult visitors who also want legal cannabis should treat the purchase like any regulated errand, planned, ID-ready, and separate from public consumption myths.",
+        "Begin with the city’s registration rule. Only businesses on SJPD’s registered cannabis list may lawfully sell or deliver in San Jose under the Municipal Code. Out-of-town apps and hotel concierge rumors are not substitutes. Pick a registered address before you leave the hotel. Bring a valid government ID proving age 21 or older with a scannable barcode; many retailers reject paper temporary IDs.",
+        "Timing matters more than tourists expect. Lunchtime and post-work rushes fill small waiting rooms. Early openings exist at some shops; late evenings can mean lines before closing. If you have dinner reservations or a Sharks-adjacent schedule, buy earlier rather than squeezing a visit between plaza photos and a curtain time. Keep the receipt. Keep products sealed in opaque packaging while you continue sightseeing.",
+        "Public consumption is the bright line. California does not allow smoking or ingesting cannabis in public places such as parks and sidewalks. Plaza lawns, museum steps, and transit platforms are not lounges. Hotels and short-term rentals set their own smoking rules; many ban smoke and vapor entirely. Plan to consume, if at all, only where private property rules allow, typically after you return to a private space that permits it. “Everyone was doing it at the concert let-out” is not a legal defense.",
+        "Transit and rideshare help visitors who skip rental cars, but sealed-and-stowed habits still apply. Do not open products on light rail. Do not advertise bags. If you fly out of San José Mineta International Airport later, remember federal rules: do not take cannabis through airport security or onto aircraft, even if you bought it legally in California. Finish, gift within state law, or otherwise dispose lawfully before a federal checkpoint.",
+        "A neutral day map looks like this: morning plaza and coffee, late-morning registered retail stop, sealed products returned to your lodging, afternoon museums or Rose Garden, evening food without sidewalk use. If your lodging forbids cannabis, skip consumption entirely and treat the purchase as a take-home for a private California address that allows it, never as a suitcase item for another state.",
+        "Tourism dollars already support downtown restaurants and venues. Licensed cannabis purchases add tax revenue when they stay inside the registered system. Unlicensed delivery to a hotel lobby undermines that and risks a bad visitor story. Verify first, buy second, sightsee third, consume privately last, or not at all.",
+        "San Jose is trying to be walkable and rules-aware at once. Visitors who respect both get the better day: culture on the plaza, a lawful receipt in the bag, and no citation for turning a public park into a smoking lounge.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-09-08",
+      "published": "2026-09-08",
+      "updated": "2026-09-23",
+      "photo": "article-73",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ]
+      ],
+      "import_number": 73,
+      "source_file": "73-tourism-day-map-downtown-plazas.md"
+    },
+    {
+      "id": "vta-light-rail-carrying-sealed-product",
+      "title": "VTA Light-Rail Days: Carrying Sealed Cannabis Discreetly and Legally",
+      "dek": "Transit-friendly shopping is possible when products stay sealed, odor-controlled, and unconsumed on platforms and trains.",
+      "body": [
+        "Valley Transportation Authority light rail threads through San Jose neighborhoods that also sit within reach of industrial cannabis corridors and downtown retail. Adults who prefer not to drive, students, night-shift workers, downtown employees, naturally ask whether they can ride with a legal purchase. The short answer is about possession and behavior, not about turning a train car into a lounge.",
+        "California law allows adults 21 and older to possess limited amounts of cannabis. Transportation should keep products sealed and discreet. Opening, smoking, or ingesting cannabis on public transit or transit platforms collides with public-consumption prohibitions and ordinary rider rules against nuisance behavior. If it smells like you broke a jar in a packed evening train, you have already failed the etiquette test, and you may face enforcement or removal regardless of your receipt.",
+        "Practical packing beats cleverness. Leave products in child-resistant packaging inside an opaque bag. Avoid crushing flower bags in overcrowded cars. Do not display brand packaging like a trophy. If you transfer between buses and light rail, keep the bag under control during fare checks and seat changes. Hot days intensify odor; consider that before you board with pungent flower after a midday purchase.",
+        "Know your route timing. Some registered retailers cluster in areas where a short rail hop plus a walk beats parking. Build buffer time so you are not running with an open tote. If a trip requires a long ride with multiple stops, consider pickup closer to home or licensed delivery to a private address instead of touring the system with product.",
+        "Minors change the calculation. Do not ask teenagers to hold a bag. Do not travel with products unsecured in a backpack if underage siblings share the load. Adult-use possession is an adult responsibility. School-zone optics matter even when you are legally carrying.",
+        "Federal overlays rarely appear on a VTA trip, but they matter at the edges: do not carry cannabis onto planes, through airport security, or onto federal property. A light-rail ride to the airport is not permission to fly with flower. Finish your California itinerary before any federal checkpoint.",
+        "Enforcement reality is uneven and should not be romanticized. Most riders will never be searched. That is not a license to consume onboard or to dare staff with open vapor clouds. Transit works when shared spaces stay usable for people who do not want cannabis exposure, kids, recovering riders, scent-sensitive passengers, and workers in uniforms who cannot be around smoke.",
+        "A clean transit shopping pattern looks like this: verify the retailer on SJPD’s list, buy what you need, seal and bag it, board, ride, walk home, store it, consume later on private property if household rules allow. Boring? Yes. Compatible with a city that wants both legal retail and functional public transit? Also yes.",
+        "San Jose’s scarce storefronts make transit access part of equity for people without cars. Keep that access by being the passenger who leaves no smell, no litter, and no story for the next meeting about “problems on the Green Line.”",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-09-10",
+      "published": "2026-09-10",
+      "updated": "2026-09-23",
+      "photo": "article-74",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ]
+      ],
+      "import_number": 74,
+      "source_file": "74-vta-light-rail-carrying-sealed-product.md"
+    },
+    {
+      "id": "parking-industrial-vs-downtown",
+      "title": "Parking Reality: Industrial Corridors vs. Downtown Cannabis Retail",
+      "dek": "Where San Jose allows cannabis storefronts shapes the parking hunt. Industrial edges trade walkability for lots; downtown trades lots for meters, garages, and patience.",
+      "body": [
+        "San Jose’s cannabis storefront geography is not random. Zoning, buffers, and the city’s capped registration history pushed many retailers into industrial and commercial edges where neighbors are warehouses and wholesale bays, not porch swings. Downtown locations exist too, with a completely different parking personality. Shoppers who understand both waste less time circling blocks angry.",
+        "Industrial-corridor retail often means surface lots, driveways shared with trucks, and streets that empty after rush hour. The upside is relative convenience: pull in, show ID, leave. The downside is evening darkness, limited food options, and occasional confusion about which driveway is public. Arrive with a charged phone, note the suite number from SJPD’s registered list, and do not block loading zones. Theft-from-auto remains a Bay Area constant, take bags with you, even for a ten-minute visit.",
+        "Downtown retail flips the script. Garages, street meters, and event-night surges around SAP Center or convention traffic can turn a quick stop into a twenty-minute hunt. Walking from a plaza garage may be faster than hunting a curb space on Santa Clara Street. Factor accessibility needs: if mobility is limited, call ahead about entrance ramps and nearby disabled parking rather than discovering a stair-only surprise. Delivery authorization varies by location on the city list; some downtown sites may not offer delivery even when a related brand does elsewhere.",
+        "Transit and rideshare are real alternatives. Light rail and buses reduce parking stress for downtown trips. Being dropped at the curb beats parallel-parking anxiety, just keep products sealed for the ride home and do not consume in the car. If you drive yourself, never leave cannabis visible on seats; trunk storage is the ordinary caution Californians already use for other valuables and for open-container adjacent common sense.",
+        "Time-of-day strategy matters as much as neighborhood. Lunch hours and Friday evenings stack lines and fill lots. Early weekday visits often mean easier parking and more budtender time. Event nights downtown deserve a plan B: garage pre-pay, a longer walk, or postpone the purchase. Industrial lots can fill when nearby businesses share peak shipping hours; mid-morning midweek is often calmer.",
+        "Safety habits travel across both geographies. Park in lighted areas when possible. Have your ID ready before you enter so you are not fishing through a wallet in a dark lot afterward. If an ATM trip is part of your cash plan, choose locations that feel active, not isolated. Pairing a late-night ATM walk with a remote industrial lot is a risk stack you can redesign.",
+        "None of this is a tour of specific competing shops. It is infrastructure literacy for a capped market. San Jose did not place cannabis retail like coffee shops on every corner; parking friction is part of that design. Build five extra minutes into the errand, know whether you are hunting a warehouse driveway or a downtown garage, and keep the purchase boring. The best parking story is the one you never have to tell.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-09-12",
+      "published": "2026-09-12",
+      "updated": "2026-09-23",
+      "photo": "article-75",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/business-application-process"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ]
+      ],
+      "import_number": 75,
+      "source_file": "75-parking-industrial-vs-downtown.md"
+    },
+    {
+      "id": "workplace-drug-testing-south-bay",
+      "title": "Workplace Drug Testing in the South Bay After Off-Duty Legal Use",
+      "dek": "California legalized adult use; many employers still test. Tech, warehouse, healthcare, and federal-contract workers need clear-eyed habits, not forum myths.",
+      "body": [
+        "San Jose sits at the intersection of legal adult-use storefronts and employers that never got the memo that weekends are unreviewable. Off-duty cannabis use can remain lawful under state rules and still collide with workplace policies, especially in safety-sensitive roles, federal contracts, and companies that retained pre-employment or reasonable-suspicion testing.",
+        "California has layered statutes and case law that limit some employer practices around off-duty cannabis, while preserving employer tools related to impairment on the job and certain safety niches. Details change with legislation and court guidance; they are not a promise that your particular handbook is toothless. Read your policy. Ask HR in writing if needed. Do not treat a budtender as an employment lawyer.",
+        "Federal reality still matters. Cannabis remains federally controlled even amid Schedule debates, and federal agencies, many contractors, commercial drivers, and aviation-related roles operate under testing regimes that ignore California retail receipts. If your badge badge path includes federal standards, assume testing risk remains material.",
+        "Practical shopper habits reduce preventable pain. Know whether your job tests and for what, urine screening windows differ from impairment assessments. Avoid consuming immediately before shifts. Do not bring products onto worksites, into fleet vehicles, or onto customer campuses with bans. Keep storage at home locked so you are not the person whose backpack smells like flower in a shared office kitchen.",
+        "Medical recommendations and disability conversations are separate from adult-use shopping. If you use cannabis for a medical condition, talk to a clinician and, where appropriate, to employment counsel about accommodations, do not improvise with a public Instagram story. Coworker stigma cuts both ways; professionalism means not pressuring colleagues to use and not shaming those who abstain for testing reasons.",
+        "Contractors and gig workers should read platform rules. Some delivery and warehouse gigs trumpet flexibility while enforcing zero-tolerance. A legal Friday edible is cold comfort if Saturday onboarding includes a screen.",
+        "None of this argues that testing culture is fair. It argues that South Bay adults deserve accurate expectations. Licensed retail makes product quality more predictable; it does not rewrite your offer letter. If cannabis matters to your quality of life and your career path is testing-heavy, choose roles and timing strategically, budget for possible dry spells before screens, and keep workplace impairment off the table entirely.",
+        "Buy legal. Use privately. Show up sober for work. When policies are unclear, get clarity from HR or a qualified attorney, not from a thread that begins with “my cousin in Humboldt never gets tested.”",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-09-14",
+      "published": "2026-09-14",
+      "updated": "2026-09-23",
+      "photo": "article-80",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ]
+      ],
+      "import_number": 80,
+      "source_file": "80-workplace-drug-testing-south-bay.md"
+    },
+    {
+      "id": "faith-communities-cannabis-local-tone",
+      "title": "Faith Communities and Cannabis: Local Tone Without Stereotype",
+      "dek": "South Bay congregations span abstinence teachings, harm-reduction pastoral care, and quiet don’t-ask cultures. Shoppers deserve nuance, not caricature.",
+      "body": [
+        "San Jose’s faith map is broad: Catholic parishes, Protestant churches, mosques, gurdwaras, temples, synagogues, and nondenominational communities woven through neighborhoods from East Side to Willow Glen. Cannabis sits differently in each tradition and often differently between pulpits and parking lots. A shopper paper can note that complexity without mocking belief or pretending every congregation is a secret dispensary fan club.",
+        "Some communities teach abstinence from intoxicants as spiritual discipline. For members of those communities, legalization does not erase vows, family expectations, or leadership standards. Adults who choose to shop anyway may do so privately, struggle with guilt, or leave. Those are personal religious decisions, not retail failures. Budtenders should not debate theology at the counter; they should check ID and explain products.",
+        "Other communities emphasize pastoral care around addiction, mental health, and criminal-record stigma from the war on drugs. In those settings, conversations may focus on healing, employment barriers, and skepticism toward harsh punishment rather than on celebrating edibles. Equity programs in cities like San Jose exist partly because prohibition’s harms fell unevenly; faith groups that organized for criminal-justice reform sometimes support expungement and economic opportunity even when they remain cautious about recreational use.",
+        "Stereotype damage goes both directions. Assuming every religious person is hostile to cannabis erases chaplains who counsel medical patients. Assuming every cannabis shopper is secular erases devout adults who use for sleep or pain under personal interpretations of conscience. Journalism that flattens either group fails South Bay reality.",
+        "Practical coexistence is already happening. Churches host recovery meetings a mile from registered storefronts. Families negotiate holiday tables where some adults drink wine, some abstain, some use cannabis elsewhere before arriving. The adult skill is consent and discretion: do not consume on congregational property without clear permission; do not pressure youth-group families; do not treat a faith community as a captive audience for your brand of wellness.",
+        "Employers tied to religious institutions may set stricter conduct codes than state adult-use law. Workers should read those codes rather than assuming California retail receipts settle internal HR questions. Likewise, religious schools and youth programs will keep cannabis away from minors regardless of Prop 64, align with that when volunteering.",
+        "For shoppers of faith navigating tension, private conversations with trusted clergy or counselors beat performative arguments on social media. For secular shoppers interacting with devout neighbors, respect boundaries without sneering. San Jose’s pluralism works when people can disagree about intoxicants and still cooperate on housing, food security, and public safety.",
+        "Cannabis policy will keep evolving. Faith traditions will keep interpreting bodies, minds, and community standards on their own clocks. A local paper’s job is to refuse caricature: no punchlines about hypocrisy tours, no erasure of sincere abstinence, no lecture disguised as coverage. Adults who buy legal products and adults who never will still share the same city, and often the same blood drives, school boards, and grocery lines.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-09-16",
+      "published": "2026-09-16",
+      "updated": "2026-09-23",
+      "photo": "article-82",
+      "sources": [
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/cannabis-equity-program"
+        ]
+      ],
+      "import_number": 82,
+      "source_file": "82-faith-communities-cannabis-local-tone.md"
+    },
+    {
+      "id": "spanish-language-shopping-confidence",
+      "title": "Spanish-Language Shopping Confidence: Asking for Help at the Counter",
+      "dek": "San Jose’s bilingual everyday life should extend to cannabis retail. You can ask for Spanish help, plain explanations, and label clarity without apology.",
+      "body": [
+        "San Jose is a bilingual working city. Spanish is heard in grocery checkouts, clinics, school meetings, and construction sites every day. Cannabis retail should not be the place where shoppers suddenly feel they must perform flawless English to buy a legal product. Confidence starts with knowing you can ask for help.",
+        "Begin with the universal requirements. Adult-use purchases require age 21 or older and a valid, scannable government ID. That rule does not change by language. Bring the ID you actually use. If a paper temporary document has failed before, sort that out before you stand in line. SJPD’s registered list remains the way to confirm a shop is lawful, ask a trusted friend to help navigate the page if the English interface is tough, or use phone translation for the roster, then verify addresses carefully.",
+        "At the counter, short phrases work. Ask whether someone speaks Spanish. Ask for slower explanations of THC milligrams, serving sizes, and onset times, especially for edibles, which DCC notes can take hours to peak. Ask staff to point to the number on the label while they talk. Numbers travel across languages better than slang strain names. If a concept is unclear, repeat it back: “So one piece is five milligrams, and I should wait?” Confirmation prevents accidental double dosing.",
+        "Bring a written list. Formats (flor, comestibles, vaporizadores), a budget, and any need for lower THC or CBD-forward options. Lists reduce pressure. If you take prescription medications, remember that budtenders are not doctors, use a clinician for interaction questions, in Spanish if your clinic offers it.",
+        "Taxes surprise everyone. San Jose’s sales tax environment and cannabis business taxes raise out-the-door prices above shelf tags. Ask for the total before you commit. Debit, cash, and ATM workflows vary; clarify payment before the jar is rung up.",
+        "Community discounts, senior, veteran, disability, student, exist at some retailers with ID rules. Ask what is offered and what stacks. Do not assume. If paperwork is confusing, ask staff to show which document they need rather than guessing.",
+        "Language access is also about respect. You deserve patience. You also deserve accurate information, not a rushed sale. If a room feels dismissive, you can leave and choose another registered retailer. Scarcity does not obligate you to accept contempt. Bring a bilingual friend for the first visit if that lowers stress, consent and privacy still apply; friends should not override your dose decisions.",
+        "Public-health numbers matter in Spanish too. Poison Control at 1-800-222-1222 offers interpreter services. Keep that number for edible emergencies and child exposures. Store products locked away from children and pets regardless of which language the warning label uses.",
+        "Cannabis retail becomes truly local when Spanish-speaking adults can shop with the same clarity as anyone else: verified shops, clear labels, calm questions, and no apology for asking. Tu recibo legal también cuenta.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-09-18",
+      "published": "2026-09-18",
+      "updated": "2026-09-23",
+      "photo": "article-83",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "calpoison.org",
+          "https://calpoison.org/contact"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ]
+      ],
+      "import_number": 83,
+      "source_file": "83-spanish-language-shopping-confidence.md"
+    },
+    {
+      "id": "cannabis-journalism-ethics-local-paper",
+      "title": "Cannabis Journalism Ethics for a Local Shopper Paper",
+      "dek": "Deal calendars and enforcement posts can live in one paper if the ethics are explicit: verify, disclose, refuse fake balance, and protect readers from harm.",
+      "body": [
+        "A San Jose cannabis shopper paper sits in a tricky genre. Readers want deals, product literacy, and neighborhood logistics. They also deserve journalism habits that do not collapse into advertorial fog or scare-mongering. Ethics are how we keep both promises.",
+        "Verification comes first. Storefront claims should be checked against SJPD’s registered cannabis businesses list. Event details should be checked on primary pages, then dated. Crime stories should stick to what police accounts actually said, without inventing cartels behind every bag. Health claims should defer to agencies like DCC and CDPH and to clinicians, not to anonymous forum certainty. When we refresh an enforcement lead, we scrub rumor and keep chronology clear.",
+        "Independence needs boundaries. This paper’s slate reserves a small number of explicitly labeled retailer feature slots at the end; the surrounding articles stay neutral and do not tour competing shops as featured destinations. Brand names may appear as shelf context. Paid deals should be distinguishable from reported facts. Readers should never have to guess whether a percentage came from a press release or from a checked event page.",
+        "Harm reduction outranks clickbait. Edible safety pieces include Poison Control numbers. Pregnancy coverage repeats state guidance to avoid cannabis and consult doctors rather than improvising counter advice. Youth access stays non-negotiable: we do not publish tips that help minors buy. Illicit-market “bargains” are framed as risks, not lifestyle hacks.",
+        "Context beats false equivalence. Licensed retail has taxes, testing, and paperwork; illicit retail may be cheaper and more dangerous. Explaining that difference is not “bias toward dispensaries.” It is consumer protection in a city that publishes a registration roster for a reason. Likewise, covering SJPD seizures does not mean every adult consumer is a suspect.",
+        "Language matters. We avoid ethnic stereotypes around cannabis crime. We avoid mocking faith communities. We avoid turning medical patients into props. We use “adults 21 and older” when discussing adult-use rules, and we keep medical lanes distinct when documentation changes limits.",
+        "Corrections are part of ethics. Menus change. Event tickets change. If a phone number or address shifts, updates should be explicit. Word-of-mouth exclusives that cannot be sourced stay out.",
+        "Transparency with readers builds trust over ninety articles: we say when something is evergreen Q&A, when something is tied to an August–September 2026 enforcement post, and when something is a featured retailer profile. We keep sources listed. We keep images real and credited, no generic stock pretending to be Commercial Street.",
+        "Local cannabis journalism will not look like a national politics desk. It can still be honest. Verify the roster. Quote the agency. Separate ads from advice. Refuse tips that get people arrested, poisoned, or scammed. That is the ethics floor under every shopping checklist in this paper.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Nina Vale",
+      "beat": "Culture & community",
+      "type": "Local guide",
+      "topic_date": "2026-09-19",
+      "published": "2026-09-19",
+      "updated": "2026-09-23",
+      "photo": "article-84",
+      "sources": [
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/responsible-cannabis-use/"
+        ],
+        [
+          "cdph.ca.gov",
+          "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/cannabis/Pages/Cannabis-Poisoning.aspx"
+        ]
+      ],
+      "import_number": 84,
+      "source_file": "84-cannabis-journalism-ethics-local-paper.md"
+    },
+    {
+      "id": "mythbusting-cheaper-illicit-same-flower",
+      "title": "Mythbusting: Cheaper Illicit Is the Same Flower",
+      "dek": "A lower black-market number is not a lab result. Taxes, testing, and unknown pesticides explain much of the gap, and SJPD cases show why source still matters.",
+      "body": [
+        "The most durable cannabis myth in San Jose is arithmetic: if illicit flower costs less, it must be the same plant without taxes. Sometimes genetics overlap. Sometimes a bag looks frosty. None of that proves equivalence on safety, potency accuracy, or what else traveled with the load.",
+        "Licensed California cannabis is subject to laboratory testing standards and track-and-trace rules that informal sellers skip. Labels list cannabinoids and required warnings. Child-resistant packaging exists because Poison Control has documented rising pediatric edible exposures statewide. You pay for that architecture, plus state and local taxes that are undisguisedly high in San Jose. Calling the gap “pure greed” ignores both tax policy and compliance costs.",
+        "What illicit price tags do not show can matter more. Pesticide residues, molds, heavy metals, and mislabeled potency appear in enforcement and testing narratives across legal markets whenever regulators sample illicit products. You cannot smell a systemic fungicide. You cannot eye-measure THC percentages from an Instagram close-up. A cheaper eighth that is actually far stronger than advertised is how edible-adjacent misadventures begin when people cook with “about a gram.”",
+        "Public-safety context from 2026 local posts is useful without claiming every informal sale equals a gambling den or a ghost-gun stop. SJPD’s east San Jose gambling raid reporting described marijuana seized alongside illegal machines, cash, and narcotics. A Western Division vehicle stop description bundled marijuana, sales indicia, and illegally configured firearms, including a privately made gun, with a juvenile booking in the mix. Those are specific cases, not a moral theory of all unlicensed flower. They still illustrate why “someone’s cousin” is not a quality-assurance department.",
+        "Youth access is another non-equivalence. Registered shops check ID for adults 21 and older. Informal markets do not owe you a scanner. If your household cares about keeping cannabis away from minors, the licensed counter is structurally aligned with that goal in a way a text-thread vendor is not.",
+        "None of this requires pretending legal flower is always artisanal perfection. Batches vary. Prices sting. Menus in a capped city can feel repetitive. Those critiques are fair inside the regulated aisle. They are not a bridge to untested product. If cost is the crisis, shop deals at registered retailers, choose value tiers intentionally, split purchases with an adult roommate lawfully, or reduce consumption, rather than laundering risk as thrift.",
+        "Consumer method: compare legal options on price-per-milligram for edibles, aroma and freshness for flower, and known brand recalls or batch labels when available. Keep receipts. If a deal exists only on a burner account, you are not looking at the same product category as a jar with a COA lineage.",
+        "Cheaper illicit flower can look similar in a photo. It is not “the same” once you count testing, tax law, age gates, and the enforcement environments where unregulated cannabis sometimes surfaces. Pay for the boring paperwork. It is doing work you will notice only on the day something goes wrong.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support.",
+        "When details are unclear, slow down, verify with primary sources, and ask a qualified professional before improvising."
+      ],
+      "author": "Jules Park",
+      "beat": "City life & consumer policy",
+      "type": "Local guide",
+      "topic_date": "2026-09-21",
+      "published": "2026-09-21",
+      "updated": "2026-09-23",
+      "photo": "article-86",
+      "sources": [
+        [
+          "x.com",
+          "https://x.com/SanJosePD/status/2100339693275828430"
+        ],
+        [
+          "x.com",
+          "https://x.com/SanJosePD/status/2092007263246729514"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "cannabis.ca.gov",
+          "https://www.cannabis.ca.gov/consumers/whats-legal/"
+        ],
+        [
+          "auditor.ca.gov",
+          "https://www.auditor.ca.gov/wp-content/uploads/2025/08/2024-105-Fact-Sheet.pdf"
+        ]
+      ],
+      "import_number": 86,
+      "source_file": "86-mythbusting-cheaper-illicit-same-flower.md"
+    },
+    {
+      "id": "purple-lotus-downtown-nfl-community-event",
+      "title": "FEATURE: Purple Lotus Downtown NFL Block Party, Community Kickoff Energy on West Santa Clara",
+      "dek": "Purple Lotus’s downtown NFL Block Party put food, a DJ, and brand booths at 66 W Santa Clara St. for Sept. 12. Read the ticket math and public-consumption limits before you treat it like a free sidewalk sale.",
+      "body": [
+        "Football season in San Jose does not only live in living rooms and sports bars. On Sept. 12, 2026, Purple Lotus turned its downtown storefront into a kickoff afternoon aimed at adults who wanted music, food, and brand booths without confusing a dispensary visit for a stadium tailgate.",
+        "According to the Purple Lotus NFL Block Party event page, the gathering was staged at Purple Lotus Downtown, 66 West Santa Clara Street, with shopper-facing emphasis on Saturday, Sept. 12, from 12 to 5 p.m. The events calendar listing also showed a Sept. 12–13 window; the detail page’s schedule for the block-party experience is the noon-to-5 p.m. Saturday program. Tickets were listed at $50 per person, framed as including more than $60 worth of goodies plus free food at the event. The page promised a DJ, brand booths, and exclusive day-of discounts, hospitality layered onto a licensed retail address that appears on SJPD’s registered cannabis businesses list alongside the Commercial Street shop at 752 Commercial Street. The shared phone line is (408) 456-0420.",
+        "That ticket structure matters because it is not a silent sticker sale. You are buying admission to an afternoon experience as well as access to booth-only offers. Before you go, decide whether the goodies-and-food package is the value you want, or whether an ordinary deals-page visit another day would serve a smaller cart better. Offers do not always stack with every community discount; ask staff on site how day-of booth pricing interacts with senior, veteran, disability, or student rates published on plpcsanjose.com/deals.",
+        "Downtown logistics are part of the story. West Santa Clara Street sits in the city’s core, near Plaza de César Chávez and transit options that Commercial Street shoppers may not use. Check the live SJPD roster for delivery flags if you hoped a van would finish the errand; plan to leave with what you purchase when delivery is not authorized for that location. Bring valid ID; adult-use purchases require customers 21 and older. Expect security and bag norms consistent with a busy event day. If you are coming from SJSU or a downtown workplace, build in extra minutes for lines when the DJ and booths are both drawing crowds.",
+        "Public consumption rules stay ordinary even when a DJ is playing. California does not turn a block-party afternoon into legal sidewalk smoking. Buy products, enjoy the food and music, and consume only in private, lawful settings afterward. The hang is the point of the activation; the receipt is still a retail transaction. That distinction protects the shop, the neighbors, and the next event permit as much as it protects you.",
+        "For locals who follow Purple Lotus’s September calendar, the downtown block party sits among Labor Day Deal Kickoff earlier in the month and Commercial Street brand takeovers later. Geography splits the month: Santa Clara Street for kickoff energy, Commercial Street for many brand-weekend windows. Reading location lines prevents the classic mistake of driving to the wrong door because the brand name sounded familiar. Jersey-themed promotions elsewhere on the calendar are separate tools from a $50 ticketed afternoon, compare which offer actually reduces your cart.",
+        "Used carefully, the NFL Block Party is a neighborhood afternoon with a cannabis retailer as host, not a promise that downtown becomes a consumption zone. Used carelessly, it becomes an expensive impulse day. The checklist is short: confirm the Sept. 12, 12–5 p.m. detail-page window; decide if the $50 ticket value framing fits your budget; verify the shop on SJPD’s list; bring ID; ask about booth discounts before you overbuy; keep consumption plans private and lawful.",
+        "Kickoff weekends will keep returning. San Jose’s registered storefront count will not balloon overnight. Events like this are how a capped market creates reasons to show up in person. Show up with a plan, leave with a receipt you understand, and let the game start after you are already home.",
+        "Local shoppers can keep this guidance beside the other essentials of adult-use life in San Jose: verify sellers on SJPD’s registered cannabis businesses list, keep receipts, store products away from children and pets, and consume only on private property where household rules allow. Those habits will not settle every debate, but they keep ordinary weekends inside the lawful, lower-drama lane this market was built to support."
+      ],
+      "author": "Dante Cruz",
+      "beat": "Music & local events",
+      "type": "News & features",
+      "topic_date": "2026-09-13",
+      "published": "2026-09-13",
+      "updated": "2026-09-23",
+      "photo": "article-90",
+      "sources": [
+        [
+          "plpcsanjose.com",
+          "https://plpcsanjose.com/events/nfl-block-party-downtown-san-jose"
+        ],
+        [
+          "plpcsanjose.com",
+          "https://plpcsanjose.com/events"
+        ],
+        [
+          "plpcsanjose.com",
+          "https://plpcsanjose.com"
+        ],
+        [
+          "sjpd.org",
+          "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/registered-cannabis-businesses"
+        ],
+        [
+          "plpcsanjose.com",
+          "https://plpcsanjose.com/deals"
+        ]
+      ],
+      "import_number": 90,
+      "source_file": "90-purple-lotus-downtown-nfl-community-event.md"
+    }
+  ]
+}
