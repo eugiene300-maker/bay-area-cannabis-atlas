@@ -1,141 +1,142 @@
 {
-  "checked_at": "2026-09-30T20:48:03+00:00",
+  "checked_at": "2026-10-07T21:16:58+00:00",
   "sources": {
     "https://sanpedrosquaremarket.com/": {
       "status": "changed",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "aa5d4672ef016b1c12783f0f708072061e026af752b52ae5c71a79ecd44a1546",
       "changed_at": "2026-09-30T20:48:03+00:00"
     },
     "https://sjmusart.org/hours-and-admissions": {
-      "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
-      "sha256": "443b32891f78c01cd28dc8f8af24754468837945f9de8dc802f3da6b7e47212f",
-      "changed_at": null
+      "status": "changed",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
+      "sha256": "51c23e9ebf4d30e0790a69cd498fd5fd1690d19a2ae1e4f89292d708b36338ea",
+      "changed_at": "2026-10-07T21:16:58+00:00"
     },
     "https://www.thetech.org/visit/": {
-      "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
-      "sha256": "ddb6aba3aceb3ad7bd4cc2bbf2d33391ffc1dc6705f7bf940bb6476449d09ce9",
-      "changed_at": null
+      "status": "changed",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
+      "sha256": "ddb90852c04e507f1a0d2771e9b9304a04058f26a742262bdf4fabeeb2925b64",
+      "changed_at": "2026-10-07T21:16:58+00:00"
     },
     "https://hammertheatre.com/": {
-      "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
-      "sha256": "878151f78c050ade944daba2c54d4e811d4ee61121119c7cebaecd2faa4c0528",
-      "changed_at": null
+      "status": "changed",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
+      "sha256": "e4da1811a9fb782ea6a618ca2f1cf51d451bcef08c6171597aeca93448f2c55f",
+      "changed_at": "2026-10-07T21:16:58+00:00"
     },
     "https://sanjosetheaters.org/seating-charts/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "c6d0cfa7ab96ae870bb609d4c37cc7ac513d402cfe1053e2eb9fabab1dc887d3",
       "changed_at": null
     },
     "https://improv.com/sanjose/private-events/info/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "1070142114d24b8260f0b995669c5d9255eb1287ba7f996c52eabdca3b9677b2",
       "changed_at": null
     },
     "https://maclaarte.org/visit/": {
-      "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
+      "status": "error",
+      "checked_at": "2026-10-07T21:16:58+00:00",
       "last_success": "2026-09-30T20:48:03+00:00",
       "sha256": "c29943da964b0d88d3d1b3677b37c782d34f5f9b4c5cc8a18e2f002c7f43192f",
-      "changed_at": null
+      "changed_at": null,
+      "error": "Insufficient source text; manual review needed"
     },
     "https://www.galleryad.com/": {
-      "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
-      "sha256": "f3e48cc1cec9fdbe38eddd456686a07396f8f97f420c11f60a3c70bcbedba137",
-      "changed_at": null
+      "status": "changed",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
+      "sha256": "e00b6724e6a80c7e7324c7bb1b9c2d342e52a39c20e4b10a5bc91ed25181cc48",
+      "changed_at": "2026-10-07T21:16:58+00:00"
     },
     "https://sanjosetheaters.org/california/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "c6d0cfa7ab96ae870bb609d4c37cc7ac513d402cfe1053e2eb9fabab1dc887d3",
       "changed_at": null
     },
     "https://www.thestage.org/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "1672e36a51b87b8ff1ad732ba440be5c65ec027fc60c1b3b13d4e276419a2c84",
       "changed_at": null
     },
     "https://www.sanjose.org/listings/sofa-market": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "029f62b4925ed8df5690c876b6f9cb0150d1667d1f09e6e023dcd407f2429a49",
       "changed_at": null
     },
     "https://haberdashersj.com/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "242bd32cf9196c76fcf6f2180d92de799412addfa46b0133627560335393a421",
       "changed_at": null
     },
     "https://www.nirvanasoulcoffee.com/contact": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "a55340b505b7faa0fa2b60afe1a4eba4863675765af7cebaa48be9dfbbdaa89b",
       "changed_at": null
     },
     "https://cltc.org/contact-directions/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "0e5f13c1ae84d9ac84370bfedcf1531e0cab022d91a0d09f9b42549c217d5466",
       "changed_at": null
     },
     "https://roysstation.com/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "4901adfaaf15f269fea984bc0cfd54d968a841f938a1eceb08c16f84b483dbb1",
       "changed_at": null
     },
     "https://www.sanjose.org/listings/shuei-do-manju-shop": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "7667cfd4d8c5b10581cb5ba8bf32ba6ddeda681328224194a438db35292efdf0",
       "changed_at": null
     },
     "https://www.jamsj.org/visit": {
       "status": "changed",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "ddc009d5fdf0b91574c50b4f2999830eb9aaf077f0d3b0bde84c7acf7a77fc2f",
       "changed_at": "2026-09-30T20:48:03+00:00"
     },
     "https://jtownpizza.com/": {
       "status": "error",
-      "checked_at": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
       "error": "HTTP Error 403: Forbidden"
     },
     "https://www.nbstore.com/": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "a4d7864c4d0b8e1d85d26d9daacb3cb3c4bb02317b5e86b89a2cb63c10091a62",
       "changed_at": null
     },
     "https://www.japantownsanjose.org/businesses": {
       "status": "ok",
-      "checked_at": "2026-09-30T20:48:03+00:00",
-      "last_success": "2026-09-30T20:48:03+00:00",
+      "checked_at": "2026-10-07T21:16:58+00:00",
+      "last_success": "2026-10-07T21:16:58+00:00",
       "sha256": "df922757991fcaffa978933569a45008368868a955d854b395e63797fbc3e231",
       "changed_at": null
     }
